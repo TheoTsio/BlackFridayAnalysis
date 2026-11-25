@@ -1,0 +1,2401 @@
+date,shop,term,level,downloaded
+2016-01-01,Public,Public,18.0,2026-11-25
+2016-02-01,Public,Public,14.0,2026-11-25
+2016-03-01,Public,Public,16.0,2026-11-25
+2016-04-01,Public,Public,16.0,2026-11-25
+2016-05-01,Public,Public,16.0,2026-11-25
+2016-06-01,Public,Public,15.0,2026-11-25
+2016-07-01,Public,Public,18.0,2026-11-25
+2016-08-01,Public,Public,17.0,2026-11-25
+2016-09-01,Public,Public,20.0,2026-11-25
+2016-10-01,Public,Public,17.0,2026-11-25
+2016-11-01,Public,Public,39.0,2026-11-25
+2016-12-01,Public,Public,27.0,2026-11-25
+2017-01-01,Public,Public,19.0,2026-11-25
+2017-02-01,Public,Public,16.0,2026-11-25
+2017-03-01,Public,Public,16.0,2026-11-25
+2017-04-01,Public,Public,17.0,2026-11-25
+2017-05-01,Public,Public,15.0,2026-11-25
+2017-06-01,Public,Public,15.0,2026-11-25
+2017-07-01,Public,Public,18.0,2026-11-25
+2017-08-01,Public,Public,19.0,2026-11-25
+2017-09-01,Public,Public,21.0,2026-11-25
+2017-10-01,Public,Public,18.0,2026-11-25
+2017-11-01,Public,Public,32.0,2026-11-25
+2017-12-01,Public,Public,28.0,2026-11-25
+2018-01-01,Public,Public,22.0,2026-11-25
+2018-02-01,Public,Public,15.0,2026-11-25
+2018-03-01,Public,Public,16.0,2026-11-25
+2018-04-01,Public,Public,16.0,2026-11-25
+2018-05-01,Public,Public,14.0,2026-11-25
+2018-06-01,Public,Public,15.0,2026-11-25
+2018-07-01,Public,Public,17.0,2026-11-25
+2018-08-01,Public,Public,17.0,2026-11-25
+2018-09-01,Public,Public,18.0,2026-11-25
+2018-10-01,Public,Public,16.0,2026-11-25
+2018-11-01,Public,Public,33.0,2026-11-25
+2018-12-01,Public,Public,27.0,2026-11-25
+2019-01-01,Public,Public,19.0,2026-11-25
+2019-02-01,Public,Public,15.0,2026-11-25
+2019-03-01,Public,Public,15.0,2026-11-25
+2019-04-01,Public,Public,17.0,2026-11-25
+2019-05-01,Public,Public,15.0,2026-11-25
+2019-06-01,Public,Public,16.0,2026-11-25
+2019-07-01,Public,Public,16.0,2026-11-25
+2019-08-01,Public,Public,17.0,2026-11-25
+2019-09-01,Public,Public,18.0,2026-11-25
+2019-10-01,Public,Public,16.0,2026-11-25
+2019-11-01,Public,Public,31.0,2026-11-25
+2019-12-01,Public,Public,28.0,2026-11-25
+2020-01-01,Public,Public,19.0,2026-11-25
+2020-02-01,Public,Public,15.0,2026-11-25
+2020-03-01,Public,Public,20.0,2026-11-25
+2020-04-01,Public,Public,24.0,2026-11-25
+2020-05-01,Public,Public,20.0,2026-11-25
+2020-06-01,Public,Public,16.0,2026-11-25
+2020-07-01,Public,Public,17.0,2026-11-25
+2020-08-01,Public,Public,19.0,2026-11-25
+2020-09-01,Public,Public,19.0,2026-11-25
+2020-10-01,Public,Public,16.0,2026-11-25
+2020-11-01,Public,Public,31.0,2026-11-25
+2020-12-01,Public,Public,32.0,2026-11-25
+2021-01-01,Public,Public,20.0,2026-11-25
+2021-02-01,Public,Public,17.0,2026-11-25
+2021-03-01,Public,Public,14.0,2026-11-25
+2021-04-01,Public,Public,21.0,2026-11-25
+2021-05-01,Public,Public,13.0,2026-11-25
+2021-06-01,Public,Public,12.0,2026-11-25
+2021-07-01,Public,Public,14.0,2026-11-25
+2021-08-01,Public,Public,14.0,2026-11-25
+2021-09-01,Public,Public,15.0,2026-11-25
+2021-10-01,Public,Public,12.0,2026-11-25
+2021-11-01,Public,Public,20.0,2026-11-25
+2021-12-01,Public,Public,21.0,2026-11-25
+2022-01-01,Public,Public,18.0,2026-11-25
+2022-02-01,Public,Public,15.0,2026-11-25
+2022-03-01,Public,Public,15.0,2026-11-25
+2022-04-01,Public,Public,15.0,2026-11-25
+2022-05-01,Public,Public,13.0,2026-11-25
+2022-06-01,Public,Public,14.0,2026-11-25
+2022-07-01,Public,Public,15.0,2026-11-25
+2022-08-01,Public,Public,18.0,2026-11-25
+2022-09-01,Public,Public,18.0,2026-11-25
+2022-10-01,Public,Public,15.0,2026-11-25
+2022-11-01,Public,Public,23.0,2026-11-25
+2022-12-01,Public,Public,25.0,2026-11-25
+2023-01-01,Public,Public,18.0,2026-11-25
+2023-02-01,Public,Public,15.0,2026-11-25
+2023-03-01,Public,Public,14.0,2026-11-25
+2023-04-01,Public,Public,16.0,2026-11-25
+2023-05-01,Public,Public,13.0,2026-11-25
+2023-06-01,Public,Public,14.0,2026-11-25
+2023-07-01,Public,Public,15.0,2026-11-25
+2023-08-01,Public,Public,15.0,2026-11-25
+2023-09-01,Public,Public,18.0,2026-11-25
+2023-10-01,Public,Public,15.0,2026-11-25
+2023-11-01,Public,Public,25.0,2026-11-25
+2023-12-01,Public,Public,25.0,2026-11-25
+2024-01-01,Public,Public,18.0,2026-11-25
+2024-02-01,Public,Public,15.0,2026-11-25
+2024-03-01,Public,Public,13.0,2026-11-25
+2024-04-01,Public,Public,13.0,2026-11-25
+2024-05-01,Public,Public,14.0,2026-11-25
+2024-06-01,Public,Public,14.0,2026-11-25
+2024-07-01,Public,Public,15.0,2026-11-25
+2024-08-01,Public,Public,16.0,2026-11-25
+2024-09-01,Public,Public,17.0,2026-11-25
+2024-10-01,Public,Public,15.0,2026-11-25
+2024-11-01,Public,Public,22.0,2026-11-25
+2024-12-01,Public,Public,23.0,2026-11-25
+2025-01-01,Public,Public,17.0,2026-11-25
+2025-02-01,Public,Public,14.0,2026-11-25
+2025-03-01,Public,Public,14.0,2026-11-25
+2025-04-01,Public,Public,16.0,2026-11-25
+2025-05-01,Public,Public,12.0,2026-11-25
+2025-06-01,Public,Public,14.0,2026-11-25
+2025-07-01,Public,Public,16.0,2026-11-25
+2025-08-01,Public,Public,15.0,2026-11-25
+2025-09-01,Public,Public,16.0,2026-11-25
+2025-10-01,Public,Public,15.0,2026-11-25
+2025-11-01,Public,Public,24.0,2026-11-25
+2025-12-01,Public,Public,27.0,2026-11-25
+2016-01-01,Kotsovolos,κωτσοβολος,8.0,2026-11-25
+2016-02-01,Kotsovolos,κωτσοβολος,6.0,2026-11-25
+2016-03-01,Kotsovolos,κωτσοβολος,5.0,2026-11-25
+2016-04-01,Kotsovolos,κωτσοβολος,5.0,2026-11-25
+2016-05-01,Kotsovolos,κωτσοβολος,6.0,2026-11-25
+2016-06-01,Kotsovolos,κωτσοβολος,6.0,2026-11-25
+2016-07-01,Kotsovolos,κωτσοβολος,7.0,2026-11-25
+2016-08-01,Kotsovolos,κωτσοβολος,7.0,2026-11-25
+2016-09-01,Kotsovolos,κωτσοβολος,7.0,2026-11-25
+2016-10-01,Kotsovolos,κωτσοβολος,7.0,2026-11-25
+2016-11-01,Kotsovolos,κωτσοβολος,11.0,2026-11-25
+2016-12-01,Kotsovolos,κωτσοβολος,11.0,2026-11-25
+2017-01-01,Kotsovolos,κωτσοβολος,10.0,2026-11-25
+2017-02-01,Kotsovolos,κωτσοβολος,7.0,2026-11-25
+2017-03-01,Kotsovolos,κωτσοβολος,6.0,2026-11-25
+2017-04-01,Kotsovolos,κωτσοβολος,6.0,2026-11-25
+2017-05-01,Kotsovolos,κωτσοβολος,6.0,2026-11-25
+2017-06-01,Kotsovolos,κωτσοβολος,7.0,2026-11-25
+2017-07-01,Kotsovolos,κωτσοβολος,9.0,2026-11-25
+2017-08-01,Kotsovolos,κωτσοβολος,9.0,2026-11-25
+2017-09-01,Kotsovolos,κωτσοβολος,9.0,2026-11-25
+2017-10-01,Kotsovolos,κωτσοβολος,9.0,2026-11-25
+2017-11-01,Kotsovolos,κωτσοβολος,20.0,2026-11-25
+2017-12-01,Kotsovolos,κωτσοβολος,13.0,2026-11-25
+2018-01-01,Kotsovolos,κωτσοβολος,11.0,2026-11-25
+2018-02-01,Kotsovolos,κωτσοβολος,8.0,2026-11-25
+2018-03-01,Kotsovolos,κωτσοβολος,8.0,2026-11-25
+2018-04-01,Kotsovolos,κωτσοβολος,8.0,2026-11-25
+2018-05-01,Kotsovolos,κωτσοβολος,8.0,2026-11-25
+2018-06-01,Kotsovolos,κωτσοβολος,9.0,2026-11-25
+2018-07-01,Kotsovolos,κωτσοβολος,11.0,2026-11-25
+2018-08-01,Kotsovolos,κωτσοβολος,10.0,2026-11-25
+2018-09-01,Kotsovolos,κωτσοβολος,9.0,2026-11-25
+2018-10-01,Kotsovolos,κωτσοβολος,10.0,2026-11-25
+2018-11-01,Kotsovolos,κωτσοβολος,24.0,2026-11-25
+2018-12-01,Kotsovolos,κωτσοβολος,15.0,2026-11-25
+2019-01-01,Kotsovolos,κωτσοβολος,13.0,2026-11-25
+2019-02-01,Kotsovolos,κωτσοβολος,10.0,2026-11-25
+2019-03-01,Kotsovolos,κωτσοβολος,8.0,2026-11-25
+2019-04-01,Kotsovolos,κωτσοβολος,9.0,2026-11-25
+2019-05-01,Kotsovolos,κωτσοβολος,8.0,2026-11-25
+2019-06-01,Kotsovolos,κωτσοβολος,10.0,2026-11-25
+2019-07-01,Kotsovolos,κωτσοβολος,10.0,2026-11-25
+2019-08-01,Kotsovolos,κωτσοβολος,10.0,2026-11-25
+2019-09-01,Kotsovolos,κωτσοβολος,10.0,2026-11-25
+2019-10-01,Kotsovolos,κωτσοβολος,11.0,2026-11-25
+2019-11-01,Kotsovolos,κωτσοβολος,27.0,2026-11-25
+2019-12-01,Kotsovolos,κωτσοβολος,17.0,2026-11-25
+2020-01-01,Kotsovolos,κωτσοβολος,14.0,2026-11-25
+2020-02-01,Kotsovolos,κωτσοβολος,9.0,2026-11-25
+2020-03-01,Kotsovolos,κωτσοβολος,12.0,2026-11-25
+2020-04-01,Kotsovolos,κωτσοβολος,14.0,2026-11-25
+2020-05-01,Kotsovolos,κωτσοβολος,17.0,2026-11-25
+2020-06-01,Kotsovolos,κωτσοβολος,12.0,2026-11-25
+2020-07-01,Kotsovolos,κωτσοβολος,14.0,2026-11-25
+2020-08-01,Kotsovolos,κωτσοβολος,13.0,2026-11-25
+2020-09-01,Kotsovolos,κωτσοβολος,12.0,2026-11-25
+2020-10-01,Kotsovolos,κωτσοβολος,14.0,2026-11-25
+2020-11-01,Kotsovolos,κωτσοβολος,29.0,2026-11-25
+2020-12-01,Kotsovolos,κωτσοβολος,23.0,2026-11-25
+2021-01-01,Kotsovolos,κωτσοβολος,19.0,2026-11-25
+2021-02-01,Kotsovolos,κωτσοβολος,16.0,2026-11-25
+2021-03-01,Kotsovolos,κωτσοβολος,11.0,2026-11-25
+2021-04-01,Kotsovolos,κωτσοβολος,17.0,2026-11-25
+2021-05-01,Kotsovolos,κωτσοβολος,12.0,2026-11-25
+2021-06-01,Kotsovolos,κωτσοβολος,12.0,2026-11-25
+2021-07-01,Kotsovolos,κωτσοβολος,13.0,2026-11-25
+2021-08-01,Kotsovolos,κωτσοβολος,13.0,2026-11-25
+2021-09-01,Kotsovolos,κωτσοβολος,11.0,2026-11-25
+2021-10-01,Kotsovolos,κωτσοβολος,13.0,2026-11-25
+2021-11-01,Kotsovolos,κωτσοβολος,23.0,2026-11-25
+2021-12-01,Kotsovolos,κωτσοβολος,14.0,2026-11-25
+2022-01-01,Kotsovolos,κωτσοβολος,13.0,2026-11-25
+2022-02-01,Kotsovolos,κωτσοβολος,11.0,2026-11-25
+2022-03-01,Kotsovolos,κωτσοβολος,10.0,2026-11-25
+2022-04-01,Kotsovolos,κωτσοβολος,11.0,2026-11-25
+2022-05-01,Kotsovolos,κωτσοβολος,10.0,2026-11-25
+2022-06-01,Kotsovolos,κωτσοβολος,12.0,2026-11-25
+2022-07-01,Kotsovolos,κωτσοβολος,11.0,2026-11-25
+2022-08-01,Kotsovolos,κωτσοβολος,13.0,2026-11-25
+2022-09-01,Kotsovolos,κωτσοβολος,12.0,2026-11-25
+2022-10-01,Kotsovolos,κωτσοβολος,12.0,2026-11-25
+2022-11-01,Kotsovolos,κωτσοβολος,19.0,2026-11-25
+2022-12-01,Kotsovolos,κωτσοβολος,14.0,2026-11-25
+2023-01-01,Kotsovolos,κωτσοβολος,12.0,2026-11-25
+2023-02-01,Kotsovolos,κωτσοβολος,11.0,2026-11-25
+2023-03-01,Kotsovolos,κωτσοβολος,9.0,2026-11-25
+2023-04-01,Kotsovolos,κωτσοβολος,10.0,2026-11-25
+2023-05-01,Kotsovolos,κωτσοβολος,9.0,2026-11-25
+2023-06-01,Kotsovolos,κωτσοβολος,9.0,2026-11-25
+2023-07-01,Kotsovolos,κωτσοβολος,13.0,2026-11-25
+2023-08-01,Kotsovolos,κωτσοβολος,10.0,2026-11-25
+2023-09-01,Kotsovolos,κωτσοβολος,9.0,2026-11-25
+2023-10-01,Kotsovolos,κωτσοβολος,10.0,2026-11-25
+2023-11-01,Kotsovolos,κωτσοβολος,20.0,2026-11-25
+2023-12-01,Kotsovolos,κωτσοβολος,13.0,2026-11-25
+2024-01-01,Kotsovolos,κωτσοβολος,11.0,2026-11-25
+2024-02-01,Kotsovolos,κωτσοβολος,9.0,2026-11-25
+2024-03-01,Kotsovolos,κωτσοβολος,8.0,2026-11-25
+2024-04-01,Kotsovolos,κωτσοβολος,7.0,2026-11-25
+2024-05-01,Kotsovolos,κωτσοβολος,7.0,2026-11-25
+2024-06-01,Kotsovolos,κωτσοβολος,10.0,2026-11-25
+2024-07-01,Kotsovolos,κωτσοβολος,10.0,2026-11-25
+2024-08-01,Kotsovolos,κωτσοβολος,9.0,2026-11-25
+2024-09-01,Kotsovolos,κωτσοβολος,8.0,2026-11-25
+2024-10-01,Kotsovolos,κωτσοβολος,9.0,2026-11-25
+2024-11-01,Kotsovolos,κωτσοβολος,16.0,2026-11-25
+2024-12-01,Kotsovolos,κωτσοβολος,11.0,2026-11-25
+2025-01-01,Kotsovolos,κωτσοβολος,9.0,2026-11-25
+2025-02-01,Kotsovolos,κωτσοβολος,7.0,2026-11-25
+2025-03-01,Kotsovolos,κωτσοβολος,6.0,2026-11-25
+2025-04-01,Kotsovolos,κωτσοβολος,7.0,2026-11-25
+2025-05-01,Kotsovolos,κωτσοβολος,7.0,2026-11-25
+2025-06-01,Kotsovolos,κωτσοβολος,7.0,2026-11-25
+2025-07-01,Kotsovolos,κωτσοβολος,8.0,2026-11-25
+2025-08-01,Kotsovolos,κωτσοβολος,7.0,2026-11-25
+2025-09-01,Kotsovolos,κωτσοβολος,7.0,2026-11-25
+2025-10-01,Kotsovolos,κωτσοβολος,8.0,2026-11-25
+2025-11-01,Kotsovolos,κωτσοβολος,14.0,2026-11-25
+2025-12-01,Kotsovolos,κωτσοβολος,10.0,2026-11-25
+2016-01-01,Plaisio,plaisio,11.0,2026-11-25
+2016-02-01,Plaisio,plaisio,9.0,2026-11-25
+2016-03-01,Plaisio,plaisio,8.0,2026-11-25
+2016-04-01,Plaisio,plaisio,8.0,2026-11-25
+2016-05-01,Plaisio,plaisio,8.0,2026-11-25
+2016-06-01,Plaisio,plaisio,7.0,2026-11-25
+2016-07-01,Plaisio,plaisio,8.0,2026-11-25
+2016-08-01,Plaisio,plaisio,8.0,2026-11-25
+2016-09-01,Plaisio,plaisio,10.0,2026-11-25
+2016-10-01,Plaisio,plaisio,8.0,2026-11-25
+2016-11-01,Plaisio,plaisio,14.0,2026-11-25
+2016-12-01,Plaisio,plaisio,11.0,2026-11-25
+2017-01-01,Plaisio,plaisio,9.0,2026-11-25
+2017-02-01,Plaisio,plaisio,7.0,2026-11-25
+2017-03-01,Plaisio,plaisio,7.0,2026-11-25
+2017-04-01,Plaisio,plaisio,7.0,2026-11-25
+2017-05-01,Plaisio,plaisio,6.0,2026-11-25
+2017-06-01,Plaisio,plaisio,6.0,2026-11-25
+2017-07-01,Plaisio,plaisio,7.0,2026-11-25
+2017-08-01,Plaisio,plaisio,8.0,2026-11-25
+2017-09-01,Plaisio,plaisio,9.0,2026-11-25
+2017-10-01,Plaisio,plaisio,8.0,2026-11-25
+2017-11-01,Plaisio,plaisio,14.0,2026-11-25
+2017-12-01,Plaisio,plaisio,11.0,2026-11-25
+2018-01-01,Plaisio,plaisio,9.0,2026-11-25
+2018-02-01,Plaisio,plaisio,7.0,2026-11-25
+2018-03-01,Plaisio,plaisio,7.0,2026-11-25
+2018-04-01,Plaisio,plaisio,7.0,2026-11-25
+2018-05-01,Plaisio,plaisio,7.0,2026-11-25
+2018-06-01,Plaisio,plaisio,7.0,2026-11-25
+2018-07-01,Plaisio,plaisio,7.0,2026-11-25
+2018-08-01,Plaisio,plaisio,8.0,2026-11-25
+2018-09-01,Plaisio,plaisio,8.0,2026-11-25
+2018-10-01,Plaisio,plaisio,8.0,2026-11-25
+2018-11-01,Plaisio,plaisio,16.0,2026-11-25
+2018-12-01,Plaisio,plaisio,10.0,2026-11-25
+2019-01-01,Plaisio,plaisio,8.0,2026-11-25
+2019-02-01,Plaisio,plaisio,7.0,2026-11-25
+2019-03-01,Plaisio,plaisio,6.0,2026-11-25
+2019-04-01,Plaisio,plaisio,7.0,2026-11-25
+2019-05-01,Plaisio,plaisio,6.0,2026-11-25
+2019-06-01,Plaisio,plaisio,7.0,2026-11-25
+2019-07-01,Plaisio,plaisio,7.0,2026-11-25
+2019-08-01,Plaisio,plaisio,7.0,2026-11-25
+2019-09-01,Plaisio,plaisio,8.0,2026-11-25
+2019-10-01,Plaisio,plaisio,7.0,2026-11-25
+2019-11-01,Plaisio,plaisio,15.0,2026-11-25
+2019-12-01,Plaisio,plaisio,11.0,2026-11-25
+2020-01-01,Plaisio,plaisio,9.0,2026-11-25
+2020-02-01,Plaisio,plaisio,7.0,2026-11-25
+2020-03-01,Plaisio,plaisio,9.0,2026-11-25
+2020-04-01,Plaisio,plaisio,12.0,2026-11-25
+2020-05-01,Plaisio,plaisio,9.0,2026-11-25
+2020-06-01,Plaisio,plaisio,7.0,2026-11-25
+2020-07-01,Plaisio,plaisio,7.0,2026-11-25
+2020-08-01,Plaisio,plaisio,8.0,2026-11-25
+2020-09-01,Plaisio,plaisio,8.0,2026-11-25
+2020-10-01,Plaisio,plaisio,8.0,2026-11-25
+2020-11-01,Plaisio,plaisio,18.0,2026-11-25
+2020-12-01,Plaisio,plaisio,16.0,2026-11-25
+2021-01-01,Plaisio,plaisio,10.0,2026-11-25
+2021-02-01,Plaisio,plaisio,9.0,2026-11-25
+2021-03-01,Plaisio,plaisio,7.0,2026-11-25
+2021-04-01,Plaisio,plaisio,10.0,2026-11-25
+2021-05-01,Plaisio,plaisio,6.0,2026-11-25
+2021-06-01,Plaisio,plaisio,6.0,2026-11-25
+2021-07-01,Plaisio,plaisio,6.0,2026-11-25
+2021-08-01,Plaisio,plaisio,6.0,2026-11-25
+2021-09-01,Plaisio,plaisio,7.0,2026-11-25
+2021-10-01,Plaisio,plaisio,6.0,2026-11-25
+2021-11-01,Plaisio,plaisio,11.0,2026-11-25
+2021-12-01,Plaisio,plaisio,9.0,2026-11-25
+2022-01-01,Plaisio,plaisio,8.0,2026-11-25
+2022-02-01,Plaisio,plaisio,7.0,2026-11-25
+2022-03-01,Plaisio,plaisio,6.0,2026-11-25
+2022-04-01,Plaisio,plaisio,6.0,2026-11-25
+2022-05-01,Plaisio,plaisio,6.0,2026-11-25
+2022-06-01,Plaisio,plaisio,6.0,2026-11-25
+2022-07-01,Plaisio,plaisio,6.0,2026-11-25
+2022-08-01,Plaisio,plaisio,8.0,2026-11-25
+2022-09-01,Plaisio,plaisio,8.0,2026-11-25
+2022-10-01,Plaisio,plaisio,6.0,2026-11-25
+2022-11-01,Plaisio,plaisio,11.0,2026-11-25
+2022-12-01,Plaisio,plaisio,9.0,2026-11-25
+2023-01-01,Plaisio,plaisio,7.0,2026-11-25
+2023-02-01,Plaisio,plaisio,6.0,2026-11-25
+2023-03-01,Plaisio,plaisio,5.0,2026-11-25
+2023-04-01,Plaisio,plaisio,5.0,2026-11-25
+2023-05-01,Plaisio,plaisio,5.0,2026-11-25
+2023-06-01,Plaisio,plaisio,5.0,2026-11-25
+2023-07-01,Plaisio,plaisio,5.0,2026-11-25
+2023-08-01,Plaisio,plaisio,5.0,2026-11-25
+2023-09-01,Plaisio,plaisio,6.0,2026-11-25
+2023-10-01,Plaisio,plaisio,6.0,2026-11-25
+2023-11-01,Plaisio,plaisio,11.0,2026-11-25
+2023-12-01,Plaisio,plaisio,8.0,2026-11-25
+2024-01-01,Plaisio,plaisio,7.0,2026-11-25
+2024-02-01,Plaisio,plaisio,6.0,2026-11-25
+2024-03-01,Plaisio,plaisio,5.0,2026-11-25
+2024-04-01,Plaisio,plaisio,5.0,2026-11-25
+2024-05-01,Plaisio,plaisio,5.0,2026-11-25
+2024-06-01,Plaisio,plaisio,5.0,2026-11-25
+2024-07-01,Plaisio,plaisio,6.0,2026-11-25
+2024-08-01,Plaisio,plaisio,6.0,2026-11-25
+2024-09-01,Plaisio,plaisio,7.0,2026-11-25
+2024-10-01,Plaisio,plaisio,6.0,2026-11-25
+2024-11-01,Plaisio,plaisio,10.0,2026-11-25
+2024-12-01,Plaisio,plaisio,9.0,2026-11-25
+2025-01-01,Plaisio,plaisio,6.0,2026-11-25
+2025-02-01,Plaisio,plaisio,5.0,2026-11-25
+2025-03-01,Plaisio,plaisio,5.0,2026-11-25
+2025-04-01,Plaisio,plaisio,5.0,2026-11-25
+2025-05-01,Plaisio,plaisio,5.0,2026-11-25
+2025-06-01,Plaisio,plaisio,5.0,2026-11-25
+2025-07-01,Plaisio,plaisio,5.0,2026-11-25
+2025-08-01,Plaisio,plaisio,5.0,2026-11-25
+2025-09-01,Plaisio,plaisio,7.0,2026-11-25
+2025-10-01,Plaisio,plaisio,5.0,2026-11-25
+2025-11-01,Plaisio,plaisio,10.0,2026-11-25
+2025-12-01,Plaisio,plaisio,8.0,2026-11-25
+2016-01-01,e-shop.gr,eshop,10.0,2026-11-25
+2016-02-01,e-shop.gr,eshop,9.0,2026-11-25
+2016-03-01,e-shop.gr,eshop,8.0,2026-11-25
+2016-04-01,e-shop.gr,eshop,8.0,2026-11-25
+2016-05-01,e-shop.gr,eshop,8.0,2026-11-25
+2016-06-01,e-shop.gr,eshop,7.0,2026-11-25
+2016-07-01,e-shop.gr,eshop,7.0,2026-11-25
+2016-08-01,e-shop.gr,eshop,7.0,2026-11-25
+2016-09-01,e-shop.gr,eshop,8.0,2026-11-25
+2016-10-01,e-shop.gr,eshop,8.0,2026-11-25
+2016-11-01,e-shop.gr,eshop,8.0,2026-11-25
+2016-12-01,e-shop.gr,eshop,8.0,2026-11-25
+2017-01-01,e-shop.gr,eshop,8.0,2026-11-25
+2017-02-01,e-shop.gr,eshop,7.0,2026-11-25
+2017-03-01,e-shop.gr,eshop,7.0,2026-11-25
+2017-04-01,e-shop.gr,eshop,7.0,2026-11-25
+2017-05-01,e-shop.gr,eshop,6.0,2026-11-25
+2017-06-01,e-shop.gr,eshop,6.0,2026-11-25
+2017-07-01,e-shop.gr,eshop,6.0,2026-11-25
+2017-08-01,e-shop.gr,eshop,7.0,2026-11-25
+2017-09-01,e-shop.gr,eshop,7.0,2026-11-25
+2017-10-01,e-shop.gr,eshop,8.0,2026-11-25
+2017-11-01,e-shop.gr,eshop,9.0,2026-11-25
+2017-12-01,e-shop.gr,eshop,9.0,2026-11-25
+2018-01-01,e-shop.gr,eshop,9.0,2026-11-25
+2018-02-01,e-shop.gr,eshop,7.0,2026-11-25
+2018-03-01,e-shop.gr,eshop,8.0,2026-11-25
+2018-04-01,e-shop.gr,eshop,8.0,2026-11-25
+2018-05-01,e-shop.gr,eshop,7.0,2026-11-25
+2018-06-01,e-shop.gr,eshop,7.0,2026-11-25
+2018-07-01,e-shop.gr,eshop,7.0,2026-11-25
+2018-08-01,e-shop.gr,eshop,7.0,2026-11-25
+2018-09-01,e-shop.gr,eshop,7.0,2026-11-25
+2018-10-01,e-shop.gr,eshop,8.0,2026-11-25
+2018-11-01,e-shop.gr,eshop,12.0,2026-11-25
+2018-12-01,e-shop.gr,eshop,11.0,2026-11-25
+2019-01-01,e-shop.gr,eshop,8.0,2026-11-25
+2019-02-01,e-shop.gr,eshop,7.0,2026-11-25
+2019-03-01,e-shop.gr,eshop,7.0,2026-11-25
+2019-04-01,e-shop.gr,eshop,7.0,2026-11-25
+2019-05-01,e-shop.gr,eshop,7.0,2026-11-25
+2019-06-01,e-shop.gr,eshop,7.0,2026-11-25
+2019-07-01,e-shop.gr,eshop,6.0,2026-11-25
+2019-08-01,e-shop.gr,eshop,6.0,2026-11-25
+2019-09-01,e-shop.gr,eshop,7.0,2026-11-25
+2019-10-01,e-shop.gr,eshop,7.0,2026-11-25
+2019-11-01,e-shop.gr,eshop,11.0,2026-11-25
+2019-12-01,e-shop.gr,eshop,10.0,2026-11-25
+2020-01-01,e-shop.gr,eshop,8.0,2026-11-25
+2020-02-01,e-shop.gr,eshop,8.0,2026-11-25
+2020-03-01,e-shop.gr,eshop,11.0,2026-11-25
+2020-04-01,e-shop.gr,eshop,15.0,2026-11-25
+2020-05-01,e-shop.gr,eshop,11.0,2026-11-25
+2020-06-01,e-shop.gr,eshop,9.0,2026-11-25
+2020-07-01,e-shop.gr,eshop,8.0,2026-11-25
+2020-08-01,e-shop.gr,eshop,8.0,2026-11-25
+2020-09-01,e-shop.gr,eshop,8.0,2026-11-25
+2020-10-01,e-shop.gr,eshop,9.0,2026-11-25
+2020-11-01,e-shop.gr,eshop,17.0,2026-11-25
+2020-12-01,e-shop.gr,eshop,19.0,2026-11-25
+2021-01-01,e-shop.gr,eshop,14.0,2026-11-25
+2021-02-01,e-shop.gr,eshop,11.0,2026-11-25
+2021-03-01,e-shop.gr,eshop,11.0,2026-11-25
+2021-04-01,e-shop.gr,eshop,10.0,2026-11-25
+2021-05-01,e-shop.gr,eshop,8.0,2026-11-25
+2021-06-01,e-shop.gr,eshop,7.0,2026-11-25
+2021-07-01,e-shop.gr,eshop,7.0,2026-11-25
+2021-08-01,e-shop.gr,eshop,6.0,2026-11-25
+2021-09-01,e-shop.gr,eshop,7.0,2026-11-25
+2021-10-01,e-shop.gr,eshop,7.0,2026-11-25
+2021-11-01,e-shop.gr,eshop,9.0,2026-11-25
+2021-12-01,e-shop.gr,eshop,9.0,2026-11-25
+2022-01-01,e-shop.gr,eshop,10.0,2026-11-25
+2022-02-01,e-shop.gr,eshop,9.0,2026-11-25
+2022-03-01,e-shop.gr,eshop,9.0,2026-11-25
+2022-04-01,e-shop.gr,eshop,9.0,2026-11-25
+2022-05-01,e-shop.gr,eshop,8.0,2026-11-25
+2022-06-01,e-shop.gr,eshop,8.0,2026-11-25
+2022-07-01,e-shop.gr,eshop,8.0,2026-11-25
+2022-08-01,e-shop.gr,eshop,7.0,2026-11-25
+2022-09-01,e-shop.gr,eshop,8.0,2026-11-25
+2022-10-01,e-shop.gr,eshop,8.0,2026-11-25
+2022-11-01,e-shop.gr,eshop,11.0,2026-11-25
+2022-12-01,e-shop.gr,eshop,10.0,2026-11-25
+2023-01-01,e-shop.gr,eshop,9.0,2026-11-25
+2023-02-01,e-shop.gr,eshop,8.0,2026-11-25
+2023-03-01,e-shop.gr,eshop,8.0,2026-11-25
+2023-04-01,e-shop.gr,eshop,8.0,2026-11-25
+2023-05-01,e-shop.gr,eshop,8.0,2026-11-25
+2023-06-01,e-shop.gr,eshop,8.0,2026-11-25
+2023-07-01,e-shop.gr,eshop,8.0,2026-11-25
+2023-08-01,e-shop.gr,eshop,7.0,2026-11-25
+2023-09-01,e-shop.gr,eshop,8.0,2026-11-25
+2023-10-01,e-shop.gr,eshop,8.0,2026-11-25
+2023-11-01,e-shop.gr,eshop,10.0,2026-11-25
+2023-12-01,e-shop.gr,eshop,9.0,2026-11-25
+2024-01-01,e-shop.gr,eshop,8.0,2026-11-25
+2024-02-01,e-shop.gr,eshop,7.0,2026-11-25
+2024-03-01,e-shop.gr,eshop,7.0,2026-11-25
+2024-04-01,e-shop.gr,eshop,7.0,2026-11-25
+2024-05-01,e-shop.gr,eshop,6.0,2026-11-25
+2024-06-01,e-shop.gr,eshop,6.0,2026-11-25
+2024-07-01,e-shop.gr,eshop,6.0,2026-11-25
+2024-08-01,e-shop.gr,eshop,6.0,2026-11-25
+2024-09-01,e-shop.gr,eshop,6.0,2026-11-25
+2024-10-01,e-shop.gr,eshop,7.0,2026-11-25
+2024-11-01,e-shop.gr,eshop,8.0,2026-11-25
+2024-12-01,e-shop.gr,eshop,8.0,2026-11-25
+2025-01-01,e-shop.gr,eshop,6.0,2026-11-25
+2025-02-01,e-shop.gr,eshop,5.0,2026-11-25
+2025-03-01,e-shop.gr,eshop,5.0,2026-11-25
+2025-04-01,e-shop.gr,eshop,5.0,2026-11-25
+2025-05-01,e-shop.gr,eshop,5.0,2026-11-25
+2025-06-01,e-shop.gr,eshop,5.0,2026-11-25
+2025-07-01,e-shop.gr,eshop,5.0,2026-11-25
+2025-08-01,e-shop.gr,eshop,4.0,2026-11-25
+2025-09-01,e-shop.gr,eshop,4.0,2026-11-25
+2025-10-01,e-shop.gr,eshop,5.0,2026-11-25
+2025-11-01,e-shop.gr,eshop,6.0,2026-11-25
+2025-12-01,e-shop.gr,eshop,6.0,2026-11-25
+2016-01-01,Media Markt,media markt,9.0,2026-11-25
+2016-02-01,Media Markt,media markt,6.0,2026-11-25
+2016-03-01,Media Markt,media markt,5.0,2026-11-25
+2016-04-01,Media Markt,media markt,5.0,2026-11-25
+2016-05-01,Media Markt,media markt,5.0,2026-11-25
+2016-06-01,Media Markt,media markt,5.0,2026-11-25
+2016-07-01,Media Markt,media markt,6.0,2026-11-25
+2016-08-01,Media Markt,media markt,5.0,2026-11-25
+2016-09-01,Media Markt,media markt,5.0,2026-11-25
+2016-10-01,Media Markt,media markt,6.0,2026-11-25
+2016-11-01,Media Markt,media markt,17.0,2026-11-25
+2016-12-01,Media Markt,media markt,12.0,2026-11-25
+2017-01-01,Media Markt,media markt,9.0,2026-11-25
+2017-02-01,Media Markt,media markt,6.0,2026-11-25
+2017-03-01,Media Markt,media markt,6.0,2026-11-25
+2017-04-01,Media Markt,media markt,6.0,2026-11-25
+2017-05-01,Media Markt,media markt,6.0,2026-11-25
+2017-06-01,Media Markt,media markt,7.0,2026-11-25
+2017-07-01,Media Markt,media markt,7.0,2026-11-25
+2017-08-01,Media Markt,media markt,7.0,2026-11-25
+2017-09-01,Media Markt,media markt,6.0,2026-11-25
+2017-10-01,Media Markt,media markt,7.0,2026-11-25
+2017-11-01,Media Markt,media markt,19.0,2026-11-25
+2017-12-01,Media Markt,media markt,11.0,2026-11-25
+2018-01-01,Media Markt,media markt,8.0,2026-11-25
+2018-02-01,Media Markt,media markt,7.0,2026-11-25
+2018-03-01,Media Markt,media markt,6.0,2026-11-25
+2018-04-01,Media Markt,media markt,6.0,2026-11-25
+2018-05-01,Media Markt,media markt,6.0,2026-11-25
+2018-06-01,Media Markt,media markt,6.0,2026-11-25
+2018-07-01,Media Markt,media markt,7.0,2026-11-25
+2018-08-01,Media Markt,media markt,6.0,2026-11-25
+2018-09-01,Media Markt,media markt,6.0,2026-11-25
+2018-10-01,Media Markt,media markt,6.0,2026-11-25
+2018-11-01,Media Markt,media markt,18.0,2026-11-25
+2018-12-01,Media Markt,media markt,10.0,2026-11-25
+2019-01-01,Media Markt,media markt,8.0,2026-11-25
+2019-02-01,Media Markt,media markt,5.0,2026-11-25
+2019-03-01,Media Markt,media markt,5.0,2026-11-25
+2019-04-01,Media Markt,media markt,6.0,2026-11-25
+2019-05-01,Media Markt,media markt,5.0,2026-11-25
+2019-06-01,Media Markt,media markt,6.0,2026-11-25
+2019-07-01,Media Markt,media markt,6.0,2026-11-25
+2019-08-01,Media Markt,media markt,6.0,2026-11-25
+2019-09-01,Media Markt,media markt,5.0,2026-11-25
+2019-10-01,Media Markt,media markt,6.0,2026-11-25
+2019-11-01,Media Markt,media markt,16.0,2026-11-25
+2019-12-01,Media Markt,media markt,8.0,2026-11-25
+2020-01-01,Media Markt,media markt,8.0,2026-11-25
+2020-02-01,Media Markt,media markt,5.0,2026-11-25
+2020-03-01,Media Markt,media markt,7.0,2026-11-25
+2020-04-01,Media Markt,media markt,7.0,2026-11-25
+2020-05-01,Media Markt,media markt,8.0,2026-11-25
+2020-06-01,Media Markt,media markt,6.0,2026-11-25
+2020-07-01,Media Markt,media markt,7.0,2026-11-25
+2020-08-01,Media Markt,media markt,6.0,2026-11-25
+2020-09-01,Media Markt,media markt,6.0,2026-11-25
+2020-10-01,Media Markt,media markt,6.0,2026-11-25
+2020-11-01,Media Markt,media markt,14.0,2026-11-25
+2020-12-01,Media Markt,media markt,9.0,2026-11-25
+2021-01-01,Media Markt,media markt,8.0,2026-11-25
+2021-02-01,Media Markt,media markt,7.0,2026-11-25
+2021-03-01,Media Markt,media markt,4.0,2026-11-25
+2021-04-01,Media Markt,media markt,8.0,2026-11-25
+2021-05-01,Media Markt,media markt,5.0,2026-11-25
+2021-06-01,Media Markt,media markt,4.0,2026-11-25
+2021-07-01,Media Markt,media markt,5.0,2026-11-25
+2021-08-01,Media Markt,media markt,4.0,2026-11-25
+2021-09-01,Media Markt,media markt,4.0,2026-11-25
+2021-10-01,Media Markt,media markt,4.0,2026-11-25
+2021-11-01,Media Markt,media markt,10.0,2026-11-25
+2021-12-01,Media Markt,media markt,6.0,2026-11-25
+2022-01-01,Media Markt,media markt,6.0,2026-11-25
+2022-02-01,Media Markt,media markt,4.0,2026-11-25
+2022-03-01,Media Markt,media markt,4.0,2026-11-25
+2022-04-01,Media Markt,media markt,4.0,2026-11-25
+2022-05-01,Media Markt,media markt,4.0,2026-11-25
+2022-06-01,Media Markt,media markt,4.0,2026-11-25
+2022-07-01,Media Markt,media markt,4.0,2026-11-25
+2022-08-01,Media Markt,media markt,5.0,2026-11-25
+2022-09-01,Media Markt,media markt,4.0,2026-11-25
+2022-10-01,Media Markt,media markt,4.0,2026-11-25
+2022-11-01,Media Markt,media markt,9.0,2026-11-25
+2022-12-01,Media Markt,media markt,5.0,2026-11-25
+2023-01-01,Media Markt,media markt,4.0,2026-11-25
+2023-02-01,Media Markt,media markt,3.0,2026-11-25
+2023-03-01,Media Markt,media markt,3.0,2026-11-25
+2023-04-01,Media Markt,media markt,3.0,2026-11-25
+2023-05-01,Media Markt,media markt,2.0,2026-11-25
+2023-06-01,Media Markt,media markt,2.0,2026-11-25
+2023-07-01,Media Markt,media markt,3.0,2026-11-25
+2023-08-01,Media Markt,media markt,2.0,2026-11-25
+2023-09-01,Media Markt,media markt,2.0,2026-11-25
+2023-10-01,Media Markt,media markt,1.0,2026-11-25
+2023-11-01,Media Markt,media markt,2.0,2026-11-25
+2023-12-01,Media Markt,media markt,1.0,2026-11-25
+2024-01-01,Media Markt,media markt,1.0,2026-11-25
+2024-02-01,Media Markt,media markt,1.0,2026-11-25
+2024-03-01,Media Markt,media markt,0.0,2026-11-25
+2024-04-01,Media Markt,media markt,0.0,2026-11-25
+2024-05-01,Media Markt,media markt,1.0,2026-11-25
+2024-06-01,Media Markt,media markt,1.0,2026-11-25
+2024-07-01,Media Markt,media markt,1.0,2026-11-25
+2024-08-01,Media Markt,media markt,1.0,2026-11-25
+2024-09-01,Media Markt,media markt,1.0,2026-11-25
+2024-10-01,Media Markt,media markt,0.0,2026-11-25
+2024-11-01,Media Markt,media markt,1.0,2026-11-25
+2024-12-01,Media Markt,media markt,0.0,2026-11-25
+2025-01-01,Media Markt,media markt,0.0,2026-11-25
+2025-02-01,Media Markt,media markt,0.0,2026-11-25
+2025-03-01,Media Markt,media markt,0.0,2026-11-25
+2025-04-01,Media Markt,media markt,0.0,2026-11-25
+2025-05-01,Media Markt,media markt,0.0,2026-11-25
+2025-06-01,Media Markt,media markt,0.0,2026-11-25
+2025-07-01,Media Markt,media markt,0.0,2026-11-25
+2025-08-01,Media Markt,media markt,0.0,2026-11-25
+2025-09-01,Media Markt,media markt,0.0,2026-11-25
+2025-10-01,Media Markt,media markt,0.0,2026-11-25
+2025-11-01,Media Markt,media markt,0.0,2026-11-25
+2025-12-01,Media Markt,media markt,0.0,2026-11-25
+2016-01-01,Germanos,γερμανος,4.0,2026-11-25
+2016-02-01,Germanos,γερμανος,3.0,2026-11-25
+2016-03-01,Germanos,γερμανος,3.0,2026-11-25
+2016-04-01,Germanos,γερμανος,3.0,2026-11-25
+2016-05-01,Germanos,γερμανος,3.0,2026-11-25
+2016-06-01,Germanos,γερμανος,3.0,2026-11-25
+2016-07-01,Germanos,γερμανος,4.0,2026-11-25
+2016-08-01,Germanos,γερμανος,4.0,2026-11-25
+2016-09-01,Germanos,γερμανος,3.0,2026-11-25
+2016-10-01,Germanos,γερμανος,3.0,2026-11-25
+2016-11-01,Germanos,γερμανος,5.0,2026-11-25
+2016-12-01,Germanos,γερμανος,5.0,2026-11-25
+2017-01-01,Germanos,γερμανος,4.0,2026-11-25
+2017-02-01,Germanos,γερμανος,3.0,2026-11-25
+2017-03-01,Germanos,γερμανος,3.0,2026-11-25
+2017-04-01,Germanos,γερμανος,3.0,2026-11-25
+2017-05-01,Germanos,γερμανος,3.0,2026-11-25
+2017-06-01,Germanos,γερμανος,3.0,2026-11-25
+2017-07-01,Germanos,γερμανος,4.0,2026-11-25
+2017-08-01,Germanos,γερμανος,4.0,2026-11-25
+2017-09-01,Germanos,γερμανος,3.0,2026-11-25
+2017-10-01,Germanos,γερμανος,4.0,2026-11-25
+2017-11-01,Germanos,γερμανος,5.0,2026-11-25
+2017-12-01,Germanos,γερμανος,6.0,2026-11-25
+2018-01-01,Germanos,γερμανος,4.0,2026-11-25
+2018-02-01,Germanos,γερμανος,3.0,2026-11-25
+2018-03-01,Germanos,γερμανος,3.0,2026-11-25
+2018-04-01,Germanos,γερμανος,3.0,2026-11-25
+2018-05-01,Germanos,γερμανος,3.0,2026-11-25
+2018-06-01,Germanos,γερμανος,3.0,2026-11-25
+2018-07-01,Germanos,γερμανος,4.0,2026-11-25
+2018-08-01,Germanos,γερμανος,4.0,2026-11-25
+2018-09-01,Germanos,γερμανος,3.0,2026-11-25
+2018-10-01,Germanos,γερμανος,4.0,2026-11-25
+2018-11-01,Germanos,γερμανος,6.0,2026-11-25
+2018-12-01,Germanos,γερμανος,5.0,2026-11-25
+2019-01-01,Germanos,γερμανος,4.0,2026-11-25
+2019-02-01,Germanos,γερμανος,3.0,2026-11-25
+2019-03-01,Germanos,γερμανος,3.0,2026-11-25
+2019-04-01,Germanos,γερμανος,3.0,2026-11-25
+2019-05-01,Germanos,γερμανος,3.0,2026-11-25
+2019-06-01,Germanos,γερμανος,3.0,2026-11-25
+2019-07-01,Germanos,γερμανος,4.0,2026-11-25
+2019-08-01,Germanos,γερμανος,3.0,2026-11-25
+2019-09-01,Germanos,γερμανος,3.0,2026-11-25
+2019-10-01,Germanos,γερμανος,3.0,2026-11-25
+2019-11-01,Germanos,γερμανος,6.0,2026-11-25
+2019-12-01,Germanos,γερμανος,6.0,2026-11-25
+2020-01-01,Germanos,γερμανος,4.0,2026-11-25
+2020-02-01,Germanos,γερμανος,3.0,2026-11-25
+2020-03-01,Germanos,γερμανος,5.0,2026-11-25
+2020-04-01,Germanos,γερμανος,6.0,2026-11-25
+2020-05-01,Germanos,γερμανος,4.0,2026-11-25
+2020-06-01,Germanos,γερμανος,4.0,2026-11-25
+2020-07-01,Germanos,γερμανος,5.0,2026-11-25
+2020-08-01,Germanos,γερμανος,4.0,2026-11-25
+2020-09-01,Germanos,γερμανος,4.0,2026-11-25
+2020-10-01,Germanos,γερμανος,4.0,2026-11-25
+2020-11-01,Germanos,γερμανος,9.0,2026-11-25
+2020-12-01,Germanos,γερμανος,9.0,2026-11-25
+2021-01-01,Germanos,γερμανος,6.0,2026-11-25
+2021-02-01,Germanos,γερμανος,4.0,2026-11-25
+2021-03-01,Germanos,γερμανος,4.0,2026-11-25
+2021-04-01,Germanos,γερμανος,7.0,2026-11-25
+2021-05-01,Germanos,γερμανος,3.0,2026-11-25
+2021-06-01,Germanos,γερμανος,4.0,2026-11-25
+2021-07-01,Germanos,γερμανος,4.0,2026-11-25
+2021-08-01,Germanos,γερμανος,4.0,2026-11-25
+2021-09-01,Germanos,γερμανος,4.0,2026-11-25
+2021-10-01,Germanos,γερμανος,3.0,2026-11-25
+2021-11-01,Germanos,γερμανος,5.0,2026-11-25
+2021-12-01,Germanos,γερμανος,5.0,2026-11-25
+2022-01-01,Germanos,γερμανος,4.0,2026-11-25
+2022-02-01,Germanos,γερμανος,3.0,2026-11-25
+2022-03-01,Germanos,γερμανος,3.0,2026-11-25
+2022-04-01,Germanos,γερμανος,4.0,2026-11-25
+2022-05-01,Germanos,γερμανος,3.0,2026-11-25
+2022-06-01,Germanos,γερμανος,3.0,2026-11-25
+2022-07-01,Germanos,γερμανος,4.0,2026-11-25
+2022-08-01,Germanos,γερμανος,4.0,2026-11-25
+2022-09-01,Germanos,γερμανος,4.0,2026-11-25
+2022-10-01,Germanos,γερμανος,3.0,2026-11-25
+2022-11-01,Germanos,γερμανος,5.0,2026-11-25
+2022-12-01,Germanos,γερμανος,5.0,2026-11-25
+2023-01-01,Germanos,γερμανος,4.0,2026-11-25
+2023-02-01,Germanos,γερμανος,3.0,2026-11-25
+2023-03-01,Germanos,γερμανος,3.0,2026-11-25
+2023-04-01,Germanos,γερμανος,3.0,2026-11-25
+2023-05-01,Germanos,γερμανος,3.0,2026-11-25
+2023-06-01,Germanos,γερμανος,3.0,2026-11-25
+2023-07-01,Germanos,γερμανος,3.0,2026-11-25
+2023-08-01,Germanos,γερμανος,4.0,2026-11-25
+2023-09-01,Germanos,γερμανος,4.0,2026-11-25
+2023-10-01,Germanos,γερμανος,3.0,2026-11-25
+2023-11-01,Germanos,γερμανος,5.0,2026-11-25
+2023-12-01,Germanos,γερμανος,5.0,2026-11-25
+2024-01-01,Germanos,γερμανος,4.0,2026-11-25
+2024-02-01,Germanos,γερμανος,3.0,2026-11-25
+2024-03-01,Germanos,γερμανος,3.0,2026-11-25
+2024-04-01,Germanos,γερμανος,3.0,2026-11-25
+2024-05-01,Germanos,γερμανος,3.0,2026-11-25
+2024-06-01,Germanos,γερμανος,3.0,2026-11-25
+2024-07-01,Germanos,γερμανος,3.0,2026-11-25
+2024-08-01,Germanos,γερμανος,3.0,2026-11-25
+2024-09-01,Germanos,γερμανος,3.0,2026-11-25
+2024-10-01,Germanos,γερμανος,3.0,2026-11-25
+2024-11-01,Germanos,γερμανος,5.0,2026-11-25
+2024-12-01,Germanos,γερμανος,4.0,2026-11-25
+2025-01-01,Germanos,γερμανος,3.0,2026-11-25
+2025-02-01,Germanos,γερμανος,3.0,2026-11-25
+2025-03-01,Germanos,γερμανος,3.0,2026-11-25
+2025-04-01,Germanos,γερμανος,3.0,2026-11-25
+2025-05-01,Germanos,γερμανος,3.0,2026-11-25
+2025-06-01,Germanos,γερμανος,3.0,2026-11-25
+2025-07-01,Germanos,γερμανος,3.0,2026-11-25
+2025-08-01,Germanos,γερμανος,3.0,2026-11-25
+2025-09-01,Germanos,γερμανος,3.0,2026-11-25
+2025-10-01,Germanos,γερμανος,3.0,2026-11-25
+2025-11-01,Germanos,γερμανος,5.0,2026-11-25
+2025-12-01,Germanos,γερμανος,4.0,2026-11-25
+2016-01-01,Electronet,electronet,1.0,2026-11-25
+2016-02-01,Electronet,electronet,1.0,2026-11-25
+2016-03-01,Electronet,electronet,0.0,2026-11-25
+2016-04-01,Electronet,electronet,0.0,2026-11-25
+2016-05-01,Electronet,electronet,0.0,2026-11-25
+2016-06-01,Electronet,electronet,1.0,2026-11-25
+2016-07-01,Electronet,electronet,1.0,2026-11-25
+2016-08-01,Electronet,electronet,1.0,2026-11-25
+2016-09-01,Electronet,electronet,1.0,2026-11-25
+2016-10-01,Electronet,electronet,1.0,2026-11-25
+2016-11-01,Electronet,electronet,1.0,2026-11-25
+2016-12-01,Electronet,electronet,1.0,2026-11-25
+2017-01-01,Electronet,electronet,1.0,2026-11-25
+2017-02-01,Electronet,electronet,1.0,2026-11-25
+2017-03-01,Electronet,electronet,0.0,2026-11-25
+2017-04-01,Electronet,electronet,1.0,2026-11-25
+2017-05-01,Electronet,electronet,1.0,2026-11-25
+2017-06-01,Electronet,electronet,1.0,2026-11-25
+2017-07-01,Electronet,electronet,1.0,2026-11-25
+2017-08-01,Electronet,electronet,1.0,2026-11-25
+2017-09-01,Electronet,electronet,1.0,2026-11-25
+2017-10-01,Electronet,electronet,1.0,2026-11-25
+2017-11-01,Electronet,electronet,1.0,2026-11-25
+2017-12-01,Electronet,electronet,1.0,2026-11-25
+2018-01-01,Electronet,electronet,1.0,2026-11-25
+2018-02-01,Electronet,electronet,1.0,2026-11-25
+2018-03-01,Electronet,electronet,0.0,2026-11-25
+2018-04-01,Electronet,electronet,1.0,2026-11-25
+2018-05-01,Electronet,electronet,1.0,2026-11-25
+2018-06-01,Electronet,electronet,1.0,2026-11-25
+2018-07-01,Electronet,electronet,1.0,2026-11-25
+2018-08-01,Electronet,electronet,1.0,2026-11-25
+2018-09-01,Electronet,electronet,0.0,2026-11-25
+2018-10-01,Electronet,electronet,1.0,2026-11-25
+2018-11-01,Electronet,electronet,1.0,2026-11-25
+2018-12-01,Electronet,electronet,1.0,2026-11-25
+2019-01-01,Electronet,electronet,1.0,2026-11-25
+2019-02-01,Electronet,electronet,1.0,2026-11-25
+2019-03-01,Electronet,electronet,0.0,2026-11-25
+2019-04-01,Electronet,electronet,0.0,2026-11-25
+2019-05-01,Electronet,electronet,0.0,2026-11-25
+2019-06-01,Electronet,electronet,1.0,2026-11-25
+2019-07-01,Electronet,electronet,1.0,2026-11-25
+2019-08-01,Electronet,electronet,1.0,2026-11-25
+2019-09-01,Electronet,electronet,1.0,2026-11-25
+2019-10-01,Electronet,electronet,1.0,2026-11-25
+2019-11-01,Electronet,electronet,1.0,2026-11-25
+2019-12-01,Electronet,electronet,1.0,2026-11-25
+2020-01-01,Electronet,electronet,1.0,2026-11-25
+2020-02-01,Electronet,electronet,1.0,2026-11-25
+2020-03-01,Electronet,electronet,1.0,2026-11-25
+2020-04-01,Electronet,electronet,1.0,2026-11-25
+2020-05-01,Electronet,electronet,1.0,2026-11-25
+2020-06-01,Electronet,electronet,1.0,2026-11-25
+2020-07-01,Electronet,electronet,1.0,2026-11-25
+2020-08-01,Electronet,electronet,1.0,2026-11-25
+2020-09-01,Electronet,electronet,1.0,2026-11-25
+2020-10-01,Electronet,electronet,1.0,2026-11-25
+2020-11-01,Electronet,electronet,2.0,2026-11-25
+2020-12-01,Electronet,electronet,1.0,2026-11-25
+2021-01-01,Electronet,electronet,1.0,2026-11-25
+2021-02-01,Electronet,electronet,1.0,2026-11-25
+2021-03-01,Electronet,electronet,1.0,2026-11-25
+2021-04-01,Electronet,electronet,1.0,2026-11-25
+2021-05-01,Electronet,electronet,1.0,2026-11-25
+2021-06-01,Electronet,electronet,1.0,2026-11-25
+2021-07-01,Electronet,electronet,1.0,2026-11-25
+2021-08-01,Electronet,electronet,1.0,2026-11-25
+2021-09-01,Electronet,electronet,1.0,2026-11-25
+2021-10-01,Electronet,electronet,1.0,2026-11-25
+2021-11-01,Electronet,electronet,1.0,2026-11-25
+2021-12-01,Electronet,electronet,1.0,2026-11-25
+2022-01-01,Electronet,electronet,1.0,2026-11-25
+2022-02-01,Electronet,electronet,1.0,2026-11-25
+2022-03-01,Electronet,electronet,1.0,2026-11-25
+2022-04-01,Electronet,electronet,1.0,2026-11-25
+2022-05-01,Electronet,electronet,1.0,2026-11-25
+2022-06-01,Electronet,electronet,1.0,2026-11-25
+2022-07-01,Electronet,electronet,1.0,2026-11-25
+2022-08-01,Electronet,electronet,1.0,2026-11-25
+2022-09-01,Electronet,electronet,1.0,2026-11-25
+2022-10-01,Electronet,electronet,1.0,2026-11-25
+2022-11-01,Electronet,electronet,1.0,2026-11-25
+2022-12-01,Electronet,electronet,1.0,2026-11-25
+2023-01-01,Electronet,electronet,1.0,2026-11-25
+2023-02-01,Electronet,electronet,1.0,2026-11-25
+2023-03-01,Electronet,electronet,1.0,2026-11-25
+2023-04-01,Electronet,electronet,1.0,2026-11-25
+2023-05-01,Electronet,electronet,1.0,2026-11-25
+2023-06-01,Electronet,electronet,1.0,2026-11-25
+2023-07-01,Electronet,electronet,1.0,2026-11-25
+2023-08-01,Electronet,electronet,1.0,2026-11-25
+2023-09-01,Electronet,electronet,1.0,2026-11-25
+2023-10-01,Electronet,electronet,1.0,2026-11-25
+2023-11-01,Electronet,electronet,1.0,2026-11-25
+2023-12-01,Electronet,electronet,1.0,2026-11-25
+2024-01-01,Electronet,electronet,1.0,2026-11-25
+2024-02-01,Electronet,electronet,1.0,2026-11-25
+2024-03-01,Electronet,electronet,0.0,2026-11-25
+2024-04-01,Electronet,electronet,0.0,2026-11-25
+2024-05-01,Electronet,electronet,0.0,2026-11-25
+2024-06-01,Electronet,electronet,1.0,2026-11-25
+2024-07-01,Electronet,electronet,1.0,2026-11-25
+2024-08-01,Electronet,electronet,1.0,2026-11-25
+2024-09-01,Electronet,electronet,1.0,2026-11-25
+2024-10-01,Electronet,electronet,1.0,2026-11-25
+2024-11-01,Electronet,electronet,1.0,2026-11-25
+2024-12-01,Electronet,electronet,1.0,2026-11-25
+2025-01-01,Electronet,electronet,1.0,2026-11-25
+2025-02-01,Electronet,electronet,0.0,2026-11-25
+2025-03-01,Electronet,electronet,0.0,2026-11-25
+2025-04-01,Electronet,electronet,0.0,2026-11-25
+2025-05-01,Electronet,electronet,1.0,2026-11-25
+2025-06-01,Electronet,electronet,1.0,2026-11-25
+2025-07-01,Electronet,electronet,1.0,2026-11-25
+2025-08-01,Electronet,electronet,1.0,2026-11-25
+2025-09-01,Electronet,electronet,1.0,2026-11-25
+2025-10-01,Electronet,electronet,1.0,2026-11-25
+2025-11-01,Electronet,electronet,1.0,2026-11-25
+2025-12-01,Electronet,electronet,1.0,2026-11-25
+2016-01-01,Apple,Apple,5.0,2026-11-25
+2016-02-01,Apple,Apple,4.0,2026-11-25
+2016-03-01,Apple,Apple,5.0,2026-11-25
+2016-04-01,Apple,Apple,4.0,2026-11-25
+2016-05-01,Apple,Apple,4.0,2026-11-25
+2016-06-01,Apple,Apple,4.0,2026-11-25
+2016-07-01,Apple,Apple,5.0,2026-11-25
+2016-08-01,Apple,Apple,5.0,2026-11-25
+2016-09-01,Apple,Apple,8.0,2026-11-25
+2016-10-01,Apple,Apple,7.0,2026-11-25
+2016-11-01,Apple,Apple,6.0,2026-11-25
+2016-12-01,Apple,Apple,6.0,2026-11-25
+2017-01-01,Apple,Apple,5.0,2026-11-25
+2017-02-01,Apple,Apple,4.0,2026-11-25
+2017-03-01,Apple,Apple,5.0,2026-11-25
+2017-04-01,Apple,Apple,4.0,2026-11-25
+2017-05-01,Apple,Apple,4.0,2026-11-25
+2017-06-01,Apple,Apple,4.0,2026-11-25
+2017-07-01,Apple,Apple,5.0,2026-11-25
+2017-08-01,Apple,Apple,5.0,2026-11-25
+2017-09-01,Apple,Apple,7.0,2026-11-25
+2017-10-01,Apple,Apple,6.0,2026-11-25
+2017-11-01,Apple,Apple,6.0,2026-11-25
+2017-12-01,Apple,Apple,6.0,2026-11-25
+2018-01-01,Apple,Apple,5.0,2026-11-25
+2018-02-01,Apple,Apple,5.0,2026-11-25
+2018-03-01,Apple,Apple,4.0,2026-11-25
+2018-04-01,Apple,Apple,4.0,2026-11-25
+2018-05-01,Apple,Apple,4.0,2026-11-25
+2018-06-01,Apple,Apple,4.0,2026-11-25
+2018-07-01,Apple,Apple,5.0,2026-11-25
+2018-08-01,Apple,Apple,6.0,2026-11-25
+2018-09-01,Apple,Apple,7.0,2026-11-25
+2018-10-01,Apple,Apple,6.0,2026-11-25
+2018-11-01,Apple,Apple,5.0,2026-11-25
+2018-12-01,Apple,Apple,5.0,2026-11-25
+2019-01-01,Apple,Apple,5.0,2026-11-25
+2019-02-01,Apple,Apple,4.0,2026-11-25
+2019-03-01,Apple,Apple,4.0,2026-11-25
+2019-04-01,Apple,Apple,4.0,2026-11-25
+2019-05-01,Apple,Apple,4.0,2026-11-25
+2019-06-01,Apple,Apple,5.0,2026-11-25
+2019-07-01,Apple,Apple,5.0,2026-11-25
+2019-08-01,Apple,Apple,7.0,2026-11-25
+2019-09-01,Apple,Apple,24.0,2026-11-25
+2019-10-01,Apple,Apple,6.0,2026-11-25
+2019-11-01,Apple,Apple,6.0,2026-11-25
+2019-12-01,Apple,Apple,6.0,2026-11-25
+2020-01-01,Apple,Apple,5.0,2026-11-25
+2020-02-01,Apple,Apple,5.0,2026-11-25
+2020-03-01,Apple,Apple,5.0,2026-11-25
+2020-04-01,Apple,Apple,6.0,2026-11-25
+2020-05-01,Apple,Apple,5.0,2026-11-25
+2020-06-01,Apple,Apple,5.0,2026-11-25
+2020-07-01,Apple,Apple,5.0,2026-11-25
+2020-08-01,Apple,Apple,6.0,2026-11-25
+2020-09-01,Apple,Apple,7.0,2026-11-25
+2020-10-01,Apple,Apple,7.0,2026-11-25
+2020-11-01,Apple,Apple,8.0,2026-11-25
+2020-12-01,Apple,Apple,8.0,2026-11-25
+2021-01-01,Apple,Apple,7.0,2026-11-25
+2021-02-01,Apple,Apple,6.0,2026-11-25
+2021-03-01,Apple,Apple,6.0,2026-11-25
+2021-04-01,Apple,Apple,6.0,2026-11-25
+2021-05-01,Apple,Apple,5.0,2026-11-25
+2021-06-01,Apple,Apple,5.0,2026-11-25
+2021-07-01,Apple,Apple,6.0,2026-11-25
+2021-08-01,Apple,Apple,7.0,2026-11-25
+2021-09-01,Apple,Apple,8.0,2026-11-25
+2021-10-01,Apple,Apple,8.0,2026-11-25
+2021-11-01,Apple,Apple,8.0,2026-11-25
+2021-12-01,Apple,Apple,8.0,2026-11-25
+2022-01-01,Apple,Apple,7.0,2026-11-25
+2022-02-01,Apple,Apple,6.0,2026-11-25
+2022-03-01,Apple,Apple,6.0,2026-11-25
+2022-04-01,Apple,Apple,6.0,2026-11-25
+2022-05-01,Apple,Apple,7.0,2026-11-25
+2022-06-01,Apple,Apple,6.0,2026-11-25
+2022-07-01,Apple,Apple,7.0,2026-11-25
+2022-08-01,Apple,Apple,8.0,2026-11-25
+2022-09-01,Apple,Apple,10.0,2026-11-25
+2022-10-01,Apple,Apple,8.0,2026-11-25
+2022-11-01,Apple,Apple,7.0,2026-11-25
+2022-12-01,Apple,Apple,8.0,2026-11-25
+2023-01-01,Apple,Apple,7.0,2026-11-25
+2023-02-01,Apple,Apple,6.0,2026-11-25
+2023-03-01,Apple,Apple,7.0,2026-11-25
+2023-04-01,Apple,Apple,7.0,2026-11-25
+2023-05-01,Apple,Apple,6.0,2026-11-25
+2023-06-01,Apple,Apple,8.0,2026-11-25
+2023-07-01,Apple,Apple,8.0,2026-11-25
+2023-08-01,Apple,Apple,8.0,2026-11-25
+2023-09-01,Apple,Apple,9.0,2026-11-25
+2023-10-01,Apple,Apple,8.0,2026-11-25
+2023-11-01,Apple,Apple,8.0,2026-11-25
+2023-12-01,Apple,Apple,8.0,2026-11-25
+2024-01-01,Apple,Apple,8.0,2026-11-25
+2024-02-01,Apple,Apple,8.0,2026-11-25
+2024-03-01,Apple,Apple,8.0,2026-11-25
+2024-04-01,Apple,Apple,7.0,2026-11-25
+2024-05-01,Apple,Apple,8.0,2026-11-25
+2024-06-01,Apple,Apple,8.0,2026-11-25
+2024-07-01,Apple,Apple,8.0,2026-11-25
+2024-08-01,Apple,Apple,9.0,2026-11-25
+2024-09-01,Apple,Apple,11.0,2026-11-25
+2024-10-01,Apple,Apple,9.0,2026-11-25
+2024-11-01,Apple,Apple,9.0,2026-11-25
+2024-12-01,Apple,Apple,9.0,2026-11-25
+2025-01-01,Apple,Apple,9.0,2026-11-25
+2025-02-01,Apple,Apple,8.0,2026-11-25
+2025-03-01,Apple,Apple,8.0,2026-11-25
+2025-04-01,Apple,Apple,10.0,2026-11-25
+2025-05-01,Apple,Apple,8.0,2026-11-25
+2025-06-01,Apple,Apple,8.0,2026-11-25
+2025-07-01,Apple,Apple,9.0,2026-11-25
+2025-08-01,Apple,Apple,9.0,2026-11-25
+2025-09-01,Apple,Apple,12.0,2026-11-25
+2025-10-01,Apple,Apple,10.0,2026-11-25
+2025-11-01,Apple,Apple,13.0,2026-11-25
+2025-12-01,Apple,Apple,12.0,2026-11-25
+2016-01-01,BestPrice,bestprice,0.0,2026-11-25
+2016-02-01,BestPrice,bestprice,0.0,2026-11-25
+2016-03-01,BestPrice,bestprice,0.0,2026-11-25
+2016-04-01,BestPrice,bestprice,0.0,2026-11-25
+2016-05-01,BestPrice,bestprice,0.0,2026-11-25
+2016-06-01,BestPrice,bestprice,0.0,2026-11-25
+2016-07-01,BestPrice,bestprice,0.0,2026-11-25
+2016-08-01,BestPrice,bestprice,0.0,2026-11-25
+2016-09-01,BestPrice,bestprice,0.0,2026-11-25
+2016-10-01,BestPrice,bestprice,0.0,2026-11-25
+2016-11-01,BestPrice,bestprice,0.0,2026-11-25
+2016-12-01,BestPrice,bestprice,0.0,2026-11-25
+2017-01-01,BestPrice,bestprice,0.0,2026-11-25
+2017-02-01,BestPrice,bestprice,0.0,2026-11-25
+2017-03-01,BestPrice,bestprice,0.0,2026-11-25
+2017-04-01,BestPrice,bestprice,0.0,2026-11-25
+2017-05-01,BestPrice,bestprice,0.0,2026-11-25
+2017-06-01,BestPrice,bestprice,0.0,2026-11-25
+2017-07-01,BestPrice,bestprice,0.0,2026-11-25
+2017-08-01,BestPrice,bestprice,0.0,2026-11-25
+2017-09-01,BestPrice,bestprice,0.0,2026-11-25
+2017-10-01,BestPrice,bestprice,0.0,2026-11-25
+2017-11-01,BestPrice,bestprice,0.0,2026-11-25
+2017-12-01,BestPrice,bestprice,0.0,2026-11-25
+2018-01-01,BestPrice,bestprice,0.0,2026-11-25
+2018-02-01,BestPrice,bestprice,0.0,2026-11-25
+2018-03-01,BestPrice,bestprice,0.0,2026-11-25
+2018-04-01,BestPrice,bestprice,0.0,2026-11-25
+2018-05-01,BestPrice,bestprice,0.0,2026-11-25
+2018-06-01,BestPrice,bestprice,0.0,2026-11-25
+2018-07-01,BestPrice,bestprice,0.0,2026-11-25
+2018-08-01,BestPrice,bestprice,0.0,2026-11-25
+2018-09-01,BestPrice,bestprice,0.0,2026-11-25
+2018-10-01,BestPrice,bestprice,0.0,2026-11-25
+2018-11-01,BestPrice,bestprice,1.0,2026-11-25
+2018-12-01,BestPrice,bestprice,1.0,2026-11-25
+2019-01-01,BestPrice,bestprice,0.0,2026-11-25
+2019-02-01,BestPrice,bestprice,0.0,2026-11-25
+2019-03-01,BestPrice,bestprice,0.0,2026-11-25
+2019-04-01,BestPrice,bestprice,0.0,2026-11-25
+2019-05-01,BestPrice,bestprice,0.0,2026-11-25
+2019-06-01,BestPrice,bestprice,0.0,2026-11-25
+2019-07-01,BestPrice,bestprice,0.0,2026-11-25
+2019-08-01,BestPrice,bestprice,0.0,2026-11-25
+2019-09-01,BestPrice,bestprice,0.0,2026-11-25
+2019-10-01,BestPrice,bestprice,0.0,2026-11-25
+2019-11-01,BestPrice,bestprice,1.0,2026-11-25
+2019-12-01,BestPrice,bestprice,1.0,2026-11-25
+2020-01-01,BestPrice,bestprice,1.0,2026-11-25
+2020-02-01,BestPrice,bestprice,1.0,2026-11-25
+2020-03-01,BestPrice,bestprice,1.0,2026-11-25
+2020-04-01,BestPrice,bestprice,2.0,2026-11-25
+2020-05-01,BestPrice,bestprice,2.0,2026-11-25
+2020-06-01,BestPrice,bestprice,2.0,2026-11-25
+2020-07-01,BestPrice,bestprice,2.0,2026-11-25
+2020-08-01,BestPrice,bestprice,2.0,2026-11-25
+2020-09-01,BestPrice,bestprice,2.0,2026-11-25
+2020-10-01,BestPrice,bestprice,1.0,2026-11-25
+2020-11-01,BestPrice,bestprice,2.0,2026-11-25
+2020-12-01,BestPrice,bestprice,2.0,2026-11-25
+2021-01-01,BestPrice,bestprice,1.0,2026-11-25
+2021-02-01,BestPrice,bestprice,1.0,2026-11-25
+2021-03-01,BestPrice,bestprice,1.0,2026-11-25
+2021-04-01,BestPrice,bestprice,1.0,2026-11-25
+2021-05-01,BestPrice,bestprice,1.0,2026-11-25
+2021-06-01,BestPrice,bestprice,1.0,2026-11-25
+2021-07-01,BestPrice,bestprice,1.0,2026-11-25
+2021-08-01,BestPrice,bestprice,1.0,2026-11-25
+2021-09-01,BestPrice,bestprice,1.0,2026-11-25
+2021-10-01,BestPrice,bestprice,1.0,2026-11-25
+2021-11-01,BestPrice,bestprice,1.0,2026-11-25
+2021-12-01,BestPrice,bestprice,1.0,2026-11-25
+2022-01-01,BestPrice,bestprice,1.0,2026-11-25
+2022-02-01,BestPrice,bestprice,1.0,2026-11-25
+2022-03-01,BestPrice,bestprice,1.0,2026-11-25
+2022-04-01,BestPrice,bestprice,1.0,2026-11-25
+2022-05-01,BestPrice,bestprice,1.0,2026-11-25
+2022-06-01,BestPrice,bestprice,1.0,2026-11-25
+2022-07-01,BestPrice,bestprice,1.0,2026-11-25
+2022-08-01,BestPrice,bestprice,1.0,2026-11-25
+2022-09-01,BestPrice,bestprice,1.0,2026-11-25
+2022-10-01,BestPrice,bestprice,1.0,2026-11-25
+2022-11-01,BestPrice,bestprice,1.0,2026-11-25
+2022-12-01,BestPrice,bestprice,1.0,2026-11-25
+2023-01-01,BestPrice,bestprice,1.0,2026-11-25
+2023-02-01,BestPrice,bestprice,1.0,2026-11-25
+2023-03-01,BestPrice,bestprice,1.0,2026-11-25
+2023-04-01,BestPrice,bestprice,2.0,2026-11-25
+2023-05-01,BestPrice,bestprice,1.0,2026-11-25
+2023-06-01,BestPrice,bestprice,2.0,2026-11-25
+2023-07-01,BestPrice,bestprice,2.0,2026-11-25
+2023-08-01,BestPrice,bestprice,2.0,2026-11-25
+2023-09-01,BestPrice,bestprice,2.0,2026-11-25
+2023-10-01,BestPrice,bestprice,2.0,2026-11-25
+2023-11-01,BestPrice,bestprice,2.0,2026-11-25
+2023-12-01,BestPrice,bestprice,2.0,2026-11-25
+2024-01-01,BestPrice,bestprice,1.0,2026-11-25
+2024-02-01,BestPrice,bestprice,1.0,2026-11-25
+2024-03-01,BestPrice,bestprice,1.0,2026-11-25
+2024-04-01,BestPrice,bestprice,1.0,2026-11-25
+2024-05-01,BestPrice,bestprice,1.0,2026-11-25
+2024-06-01,BestPrice,bestprice,1.0,2026-11-25
+2024-07-01,BestPrice,bestprice,1.0,2026-11-25
+2024-08-01,BestPrice,bestprice,1.0,2026-11-25
+2024-09-01,BestPrice,bestprice,1.0,2026-11-25
+2024-10-01,BestPrice,bestprice,1.0,2026-11-25
+2024-11-01,BestPrice,bestprice,1.0,2026-11-25
+2024-12-01,BestPrice,bestprice,1.0,2026-11-25
+2025-01-01,BestPrice,bestprice,1.0,2026-11-25
+2025-02-01,BestPrice,bestprice,1.0,2026-11-25
+2025-03-01,BestPrice,bestprice,1.0,2026-11-25
+2025-04-01,BestPrice,bestprice,1.0,2026-11-25
+2025-05-01,BestPrice,bestprice,1.0,2026-11-25
+2025-06-01,BestPrice,bestprice,1.0,2026-11-25
+2025-07-01,BestPrice,bestprice,1.0,2026-11-25
+2025-08-01,BestPrice,bestprice,0.0,2026-11-25
+2025-09-01,BestPrice,bestprice,1.0,2026-11-25
+2025-10-01,BestPrice,bestprice,1.0,2026-11-25
+2025-11-01,BestPrice,bestprice,1.0,2026-11-25
+2025-12-01,BestPrice,bestprice,1.0,2026-11-25
+2016-01-01,Temu,temu,0.0,2026-11-25
+2016-02-01,Temu,temu,0.0,2026-11-25
+2016-03-01,Temu,temu,0.0,2026-11-25
+2016-04-01,Temu,temu,0.0,2026-11-25
+2016-05-01,Temu,temu,0.0,2026-11-25
+2016-06-01,Temu,temu,0.0,2026-11-25
+2016-07-01,Temu,temu,0.0,2026-11-25
+2016-08-01,Temu,temu,0.0,2026-11-25
+2016-09-01,Temu,temu,0.0,2026-11-25
+2016-10-01,Temu,temu,0.0,2026-11-25
+2016-11-01,Temu,temu,0.0,2026-11-25
+2016-12-01,Temu,temu,0.0,2026-11-25
+2017-01-01,Temu,temu,0.0,2026-11-25
+2017-02-01,Temu,temu,0.0,2026-11-25
+2017-03-01,Temu,temu,0.0,2026-11-25
+2017-04-01,Temu,temu,0.0,2026-11-25
+2017-05-01,Temu,temu,0.0,2026-11-25
+2017-06-01,Temu,temu,0.0,2026-11-25
+2017-07-01,Temu,temu,0.0,2026-11-25
+2017-08-01,Temu,temu,0.0,2026-11-25
+2017-09-01,Temu,temu,0.0,2026-11-25
+2017-10-01,Temu,temu,0.0,2026-11-25
+2017-11-01,Temu,temu,0.0,2026-11-25
+2017-12-01,Temu,temu,0.0,2026-11-25
+2018-01-01,Temu,temu,0.0,2026-11-25
+2018-02-01,Temu,temu,0.0,2026-11-25
+2018-03-01,Temu,temu,0.0,2026-11-25
+2018-04-01,Temu,temu,0.0,2026-11-25
+2018-05-01,Temu,temu,0.0,2026-11-25
+2018-06-01,Temu,temu,0.0,2026-11-25
+2018-07-01,Temu,temu,0.0,2026-11-25
+2018-08-01,Temu,temu,0.0,2026-11-25
+2018-09-01,Temu,temu,0.0,2026-11-25
+2018-10-01,Temu,temu,0.0,2026-11-25
+2018-11-01,Temu,temu,0.0,2026-11-25
+2018-12-01,Temu,temu,0.0,2026-11-25
+2019-01-01,Temu,temu,0.0,2026-11-25
+2019-02-01,Temu,temu,0.0,2026-11-25
+2019-03-01,Temu,temu,0.0,2026-11-25
+2019-04-01,Temu,temu,0.0,2026-11-25
+2019-05-01,Temu,temu,0.0,2026-11-25
+2019-06-01,Temu,temu,0.0,2026-11-25
+2019-07-01,Temu,temu,0.0,2026-11-25
+2019-08-01,Temu,temu,0.0,2026-11-25
+2019-09-01,Temu,temu,0.0,2026-11-25
+2019-10-01,Temu,temu,0.0,2026-11-25
+2019-11-01,Temu,temu,0.0,2026-11-25
+2019-12-01,Temu,temu,0.0,2026-11-25
+2020-01-01,Temu,temu,0.0,2026-11-25
+2020-02-01,Temu,temu,0.0,2026-11-25
+2020-03-01,Temu,temu,0.0,2026-11-25
+2020-04-01,Temu,temu,0.0,2026-11-25
+2020-05-01,Temu,temu,0.0,2026-11-25
+2020-06-01,Temu,temu,0.0,2026-11-25
+2020-07-01,Temu,temu,0.0,2026-11-25
+2020-08-01,Temu,temu,0.0,2026-11-25
+2020-09-01,Temu,temu,0.0,2026-11-25
+2020-10-01,Temu,temu,0.0,2026-11-25
+2020-11-01,Temu,temu,0.0,2026-11-25
+2020-12-01,Temu,temu,0.0,2026-11-25
+2021-01-01,Temu,temu,0.0,2026-11-25
+2021-02-01,Temu,temu,0.0,2026-11-25
+2021-03-01,Temu,temu,0.0,2026-11-25
+2021-04-01,Temu,temu,0.0,2026-11-25
+2021-05-01,Temu,temu,0.0,2026-11-25
+2021-06-01,Temu,temu,0.0,2026-11-25
+2021-07-01,Temu,temu,0.0,2026-11-25
+2021-08-01,Temu,temu,0.0,2026-11-25
+2021-09-01,Temu,temu,0.0,2026-11-25
+2021-10-01,Temu,temu,0.0,2026-11-25
+2021-11-01,Temu,temu,0.0,2026-11-25
+2021-12-01,Temu,temu,0.0,2026-11-25
+2022-01-01,Temu,temu,0.0,2026-11-25
+2022-02-01,Temu,temu,0.0,2026-11-25
+2022-03-01,Temu,temu,0.0,2026-11-25
+2022-04-01,Temu,temu,0.0,2026-11-25
+2022-05-01,Temu,temu,0.0,2026-11-25
+2022-06-01,Temu,temu,0.0,2026-11-25
+2022-07-01,Temu,temu,0.0,2026-11-25
+2022-08-01,Temu,temu,0.0,2026-11-25
+2022-09-01,Temu,temu,0.0,2026-11-25
+2022-10-01,Temu,temu,0.0,2026-11-25
+2022-11-01,Temu,temu,0.0,2026-11-25
+2022-12-01,Temu,temu,0.0,2026-11-25
+2023-01-01,Temu,temu,0.0,2026-11-25
+2023-02-01,Temu,temu,0.0,2026-11-25
+2023-03-01,Temu,temu,0.0,2026-11-25
+2023-04-01,Temu,temu,0.0,2026-11-25
+2023-05-01,Temu,temu,0.0,2026-11-25
+2023-06-01,Temu,temu,0.0,2026-11-25
+2023-07-01,Temu,temu,1.0,2026-11-25
+2023-08-01,Temu,temu,3.0,2026-11-25
+2023-09-01,Temu,temu,6.0,2026-11-25
+2023-10-01,Temu,temu,10.0,2026-11-25
+2023-11-01,Temu,temu,12.0,2026-11-25
+2023-12-01,Temu,temu,8.0,2026-11-25
+2024-01-01,Temu,temu,8.0,2026-11-25
+2024-02-01,Temu,temu,7.0,2026-11-25
+2024-03-01,Temu,temu,8.0,2026-11-25
+2024-04-01,Temu,temu,7.0,2026-11-25
+2024-05-01,Temu,temu,7.0,2026-11-25
+2024-06-01,Temu,temu,6.0,2026-11-25
+2024-07-01,Temu,temu,6.0,2026-11-25
+2024-08-01,Temu,temu,8.0,2026-11-25
+2024-09-01,Temu,temu,8.0,2026-11-25
+2024-10-01,Temu,temu,9.0,2026-11-25
+2024-11-01,Temu,temu,8.0,2026-11-25
+2024-12-01,Temu,temu,7.0,2026-11-25
+2025-01-01,Temu,temu,8.0,2026-11-25
+2025-02-01,Temu,temu,8.0,2026-11-25
+2025-03-01,Temu,temu,8.0,2026-11-25
+2025-04-01,Temu,temu,9.0,2026-11-25
+2025-05-01,Temu,temu,10.0,2026-11-25
+2025-06-01,Temu,temu,9.0,2026-11-25
+2025-07-01,Temu,temu,8.0,2026-11-25
+2025-08-01,Temu,temu,10.0,2026-11-25
+2025-09-01,Temu,temu,10.0,2026-11-25
+2025-10-01,Temu,temu,10.0,2026-11-25
+2025-11-01,Temu,temu,11.0,2026-11-25
+2025-12-01,Temu,temu,10.0,2026-11-25
+2016-01-01,Shein,shein,0.0,2026-11-25
+2016-02-01,Shein,shein,0.0,2026-11-25
+2016-03-01,Shein,shein,0.0,2026-11-25
+2016-04-01,Shein,shein,0.0,2026-11-25
+2016-05-01,Shein,shein,0.0,2026-11-25
+2016-06-01,Shein,shein,0.0,2026-11-25
+2016-07-01,Shein,shein,0.0,2026-11-25
+2016-08-01,Shein,shein,0.0,2026-11-25
+2016-09-01,Shein,shein,0.0,2026-11-25
+2016-10-01,Shein,shein,0.0,2026-11-25
+2016-11-01,Shein,shein,0.0,2026-11-25
+2016-12-01,Shein,shein,0.0,2026-11-25
+2017-01-01,Shein,shein,0.0,2026-11-25
+2017-02-01,Shein,shein,0.0,2026-11-25
+2017-03-01,Shein,shein,0.0,2026-11-25
+2017-04-01,Shein,shein,0.0,2026-11-25
+2017-05-01,Shein,shein,0.0,2026-11-25
+2017-06-01,Shein,shein,0.0,2026-11-25
+2017-07-01,Shein,shein,0.0,2026-11-25
+2017-08-01,Shein,shein,0.0,2026-11-25
+2017-09-01,Shein,shein,0.0,2026-11-25
+2017-10-01,Shein,shein,0.0,2026-11-25
+2017-11-01,Shein,shein,0.0,2026-11-25
+2017-12-01,Shein,shein,0.0,2026-11-25
+2018-01-01,Shein,shein,0.0,2026-11-25
+2018-02-01,Shein,shein,0.0,2026-11-25
+2018-03-01,Shein,shein,0.0,2026-11-25
+2018-04-01,Shein,shein,0.0,2026-11-25
+2018-05-01,Shein,shein,0.0,2026-11-25
+2018-06-01,Shein,shein,0.0,2026-11-25
+2018-07-01,Shein,shein,0.0,2026-11-25
+2018-08-01,Shein,shein,0.0,2026-11-25
+2018-09-01,Shein,shein,0.0,2026-11-25
+2018-10-01,Shein,shein,0.0,2026-11-25
+2018-11-01,Shein,shein,0.0,2026-11-25
+2018-12-01,Shein,shein,0.0,2026-11-25
+2019-01-01,Shein,shein,0.0,2026-11-25
+2019-02-01,Shein,shein,0.0,2026-11-25
+2019-03-01,Shein,shein,0.0,2026-11-25
+2019-04-01,Shein,shein,0.0,2026-11-25
+2019-05-01,Shein,shein,0.0,2026-11-25
+2019-06-01,Shein,shein,0.0,2026-11-25
+2019-07-01,Shein,shein,0.0,2026-11-25
+2019-08-01,Shein,shein,0.0,2026-11-25
+2019-09-01,Shein,shein,0.0,2026-11-25
+2019-10-01,Shein,shein,0.0,2026-11-25
+2019-11-01,Shein,shein,0.0,2026-11-25
+2019-12-01,Shein,shein,0.0,2026-11-25
+2020-01-01,Shein,shein,0.0,2026-11-25
+2020-02-01,Shein,shein,0.0,2026-11-25
+2020-03-01,Shein,shein,0.0,2026-11-25
+2020-04-01,Shein,shein,1.0,2026-11-25
+2020-05-01,Shein,shein,0.0,2026-11-25
+2020-06-01,Shein,shein,0.0,2026-11-25
+2020-07-01,Shein,shein,1.0,2026-11-25
+2020-08-01,Shein,shein,1.0,2026-11-25
+2020-09-01,Shein,shein,1.0,2026-11-25
+2020-10-01,Shein,shein,1.0,2026-11-25
+2020-11-01,Shein,shein,3.0,2026-11-25
+2020-12-01,Shein,shein,3.0,2026-11-25
+2021-01-01,Shein,shein,6.0,2026-11-25
+2021-02-01,Shein,shein,6.0,2026-11-25
+2021-03-01,Shein,shein,9.0,2026-11-25
+2021-04-01,Shein,shein,10.0,2026-11-25
+2021-05-01,Shein,shein,9.0,2026-11-25
+2021-06-01,Shein,shein,7.0,2026-11-25
+2021-07-01,Shein,shein,5.0,2026-11-25
+2021-08-01,Shein,shein,6.0,2026-11-25
+2021-09-01,Shein,shein,5.0,2026-11-25
+2021-10-01,Shein,shein,5.0,2026-11-25
+2021-11-01,Shein,shein,6.0,2026-11-25
+2021-12-01,Shein,shein,4.0,2026-11-25
+2022-01-01,Shein,shein,6.0,2026-11-25
+2022-02-01,Shein,shein,6.0,2026-11-25
+2022-03-01,Shein,shein,7.0,2026-11-25
+2022-04-01,Shein,shein,10.0,2026-11-25
+2022-05-01,Shein,shein,12.0,2026-11-25
+2022-06-01,Shein,shein,13.0,2026-11-25
+2022-07-01,Shein,shein,10.0,2026-11-25
+2022-08-01,Shein,shein,10.0,2026-11-25
+2022-09-01,Shein,shein,10.0,2026-11-25
+2022-10-01,Shein,shein,12.0,2026-11-25
+2022-11-01,Shein,shein,13.0,2026-11-25
+2022-12-01,Shein,shein,11.0,2026-11-25
+2023-01-01,Shein,shein,13.0,2026-11-25
+2023-02-01,Shein,shein,12.0,2026-11-25
+2023-03-01,Shein,shein,13.0,2026-11-25
+2023-04-01,Shein,shein,15.0,2026-11-25
+2023-05-01,Shein,shein,15.0,2026-11-25
+2023-06-01,Shein,shein,16.0,2026-11-25
+2023-07-01,Shein,shein,13.0,2026-11-25
+2023-08-01,Shein,shein,11.0,2026-11-25
+2023-09-01,Shein,shein,11.0,2026-11-25
+2023-10-01,Shein,shein,11.0,2026-11-25
+2023-11-01,Shein,shein,11.0,2026-11-25
+2023-12-01,Shein,shein,8.0,2026-11-25
+2024-01-01,Shein,shein,9.0,2026-11-25
+2024-02-01,Shein,shein,8.0,2026-11-25
+2024-03-01,Shein,shein,8.0,2026-11-25
+2024-04-01,Shein,shein,9.0,2026-11-25
+2024-05-01,Shein,shein,10.0,2026-11-25
+2024-06-01,Shein,shein,9.0,2026-11-25
+2024-07-01,Shein,shein,8.0,2026-11-25
+2024-08-01,Shein,shein,7.0,2026-11-25
+2024-09-01,Shein,shein,7.0,2026-11-25
+2024-10-01,Shein,shein,8.0,2026-11-25
+2024-11-01,Shein,shein,9.0,2026-11-25
+2024-12-01,Shein,shein,6.0,2026-11-25
+2025-01-01,Shein,shein,7.0,2026-11-25
+2025-02-01,Shein,shein,6.0,2026-11-25
+2025-03-01,Shein,shein,7.0,2026-11-25
+2025-04-01,Shein,shein,7.0,2026-11-25
+2025-05-01,Shein,shein,8.0,2026-11-25
+2025-06-01,Shein,shein,8.0,2026-11-25
+2025-07-01,Shein,shein,8.0,2026-11-25
+2025-08-01,Shein,shein,6.0,2026-11-25
+2025-09-01,Shein,shein,6.0,2026-11-25
+2025-10-01,Shein,shein,7.0,2026-11-25
+2025-11-01,Shein,shein,7.0,2026-11-25
+2025-12-01,Shein,shein,5.0,2026-11-25
+2016-01-01,AliExpress,aliexpress,2.0,2026-11-25
+2016-02-01,AliExpress,aliexpress,2.0,2026-11-25
+2016-03-01,AliExpress,aliexpress,2.0,2026-11-25
+2016-04-01,AliExpress,aliexpress,2.0,2026-11-25
+2016-05-01,AliExpress,aliexpress,2.0,2026-11-25
+2016-06-01,AliExpress,aliexpress,2.0,2026-11-25
+2016-07-01,AliExpress,aliexpress,2.0,2026-11-25
+2016-08-01,AliExpress,aliexpress,3.0,2026-11-25
+2016-09-01,AliExpress,aliexpress,3.0,2026-11-25
+2016-10-01,AliExpress,aliexpress,3.0,2026-11-25
+2016-11-01,AliExpress,aliexpress,4.0,2026-11-25
+2016-12-01,AliExpress,aliexpress,3.0,2026-11-25
+2017-01-01,AliExpress,aliexpress,3.0,2026-11-25
+2017-02-01,AliExpress,aliexpress,2.0,2026-11-25
+2017-03-01,AliExpress,aliexpress,3.0,2026-11-25
+2017-04-01,AliExpress,aliexpress,3.0,2026-11-25
+2017-05-01,AliExpress,aliexpress,3.0,2026-11-25
+2017-06-01,AliExpress,aliexpress,3.0,2026-11-25
+2017-07-01,AliExpress,aliexpress,2.0,2026-11-25
+2017-08-01,AliExpress,aliexpress,2.0,2026-11-25
+2017-09-01,AliExpress,aliexpress,3.0,2026-11-25
+2017-10-01,AliExpress,aliexpress,3.0,2026-11-25
+2017-11-01,AliExpress,aliexpress,2.0,2026-11-25
+2017-12-01,AliExpress,aliexpress,2.0,2026-11-25
+2018-01-01,AliExpress,aliexpress,2.0,2026-11-25
+2018-02-01,AliExpress,aliexpress,2.0,2026-11-25
+2018-03-01,AliExpress,aliexpress,3.0,2026-11-25
+2018-04-01,AliExpress,aliexpress,2.0,2026-11-25
+2018-05-01,AliExpress,aliexpress,2.0,2026-11-25
+2018-06-01,AliExpress,aliexpress,2.0,2026-11-25
+2018-07-01,AliExpress,aliexpress,2.0,2026-11-25
+2018-08-01,AliExpress,aliexpress,3.0,2026-11-25
+2018-09-01,AliExpress,aliexpress,3.0,2026-11-25
+2018-10-01,AliExpress,aliexpress,3.0,2026-11-25
+2018-11-01,AliExpress,aliexpress,3.0,2026-11-25
+2018-12-01,AliExpress,aliexpress,2.0,2026-11-25
+2019-01-01,AliExpress,aliexpress,3.0,2026-11-25
+2019-02-01,AliExpress,aliexpress,3.0,2026-11-25
+2019-03-01,AliExpress,aliexpress,3.0,2026-11-25
+2019-04-01,AliExpress,aliexpress,3.0,2026-11-25
+2019-05-01,AliExpress,aliexpress,3.0,2026-11-25
+2019-06-01,AliExpress,aliexpress,3.0,2026-11-25
+2019-07-01,AliExpress,aliexpress,3.0,2026-11-25
+2019-08-01,AliExpress,aliexpress,3.0,2026-11-25
+2019-09-01,AliExpress,aliexpress,3.0,2026-11-25
+2019-10-01,AliExpress,aliexpress,3.0,2026-11-25
+2019-11-01,AliExpress,aliexpress,4.0,2026-11-25
+2019-12-01,AliExpress,aliexpress,3.0,2026-11-25
+2020-01-01,AliExpress,aliexpress,4.0,2026-11-25
+2020-02-01,AliExpress,aliexpress,3.0,2026-11-25
+2020-03-01,AliExpress,aliexpress,2.0,2026-11-25
+2020-04-01,AliExpress,aliexpress,3.0,2026-11-25
+2020-05-01,AliExpress,aliexpress,3.0,2026-11-25
+2020-06-01,AliExpress,aliexpress,2.0,2026-11-25
+2020-07-01,AliExpress,aliexpress,2.0,2026-11-25
+2020-08-01,AliExpress,aliexpress,3.0,2026-11-25
+2020-09-01,AliExpress,aliexpress,3.0,2026-11-25
+2020-10-01,AliExpress,aliexpress,2.0,2026-11-25
+2020-11-01,AliExpress,aliexpress,3.0,2026-11-25
+2020-12-01,AliExpress,aliexpress,3.0,2026-11-25
+2021-01-01,AliExpress,aliexpress,3.0,2026-11-25
+2021-02-01,AliExpress,aliexpress,3.0,2026-11-25
+2021-03-01,AliExpress,aliexpress,3.0,2026-11-25
+2021-04-01,AliExpress,aliexpress,3.0,2026-11-25
+2021-05-01,AliExpress,aliexpress,2.0,2026-11-25
+2021-06-01,AliExpress,aliexpress,2.0,2026-11-25
+2021-07-01,AliExpress,aliexpress,1.0,2026-11-25
+2021-08-01,AliExpress,aliexpress,1.0,2026-11-25
+2021-09-01,AliExpress,aliexpress,2.0,2026-11-25
+2021-10-01,AliExpress,aliexpress,2.0,2026-11-25
+2021-11-01,AliExpress,aliexpress,2.0,2026-11-25
+2021-12-01,AliExpress,aliexpress,2.0,2026-11-25
+2022-01-01,AliExpress,aliexpress,2.0,2026-11-25
+2022-02-01,AliExpress,aliexpress,2.0,2026-11-25
+2022-03-01,AliExpress,aliexpress,2.0,2026-11-25
+2022-04-01,AliExpress,aliexpress,2.0,2026-11-25
+2022-05-01,AliExpress,aliexpress,2.0,2026-11-25
+2022-06-01,AliExpress,aliexpress,2.0,2026-11-25
+2022-07-01,AliExpress,aliexpress,2.0,2026-11-25
+2022-08-01,AliExpress,aliexpress,2.0,2026-11-25
+2022-09-01,AliExpress,aliexpress,2.0,2026-11-25
+2022-10-01,AliExpress,aliexpress,2.0,2026-11-25
+2022-11-01,AliExpress,aliexpress,2.0,2026-11-25
+2022-12-01,AliExpress,aliexpress,2.0,2026-11-25
+2023-01-01,AliExpress,aliexpress,2.0,2026-11-25
+2023-02-01,AliExpress,aliexpress,2.0,2026-11-25
+2023-03-01,AliExpress,aliexpress,2.0,2026-11-25
+2023-04-01,AliExpress,aliexpress,2.0,2026-11-25
+2023-05-01,AliExpress,aliexpress,2.0,2026-11-25
+2023-06-01,AliExpress,aliexpress,2.0,2026-11-25
+2023-07-01,AliExpress,aliexpress,2.0,2026-11-25
+2023-08-01,AliExpress,aliexpress,2.0,2026-11-25
+2023-09-01,AliExpress,aliexpress,2.0,2026-11-25
+2023-10-01,AliExpress,aliexpress,2.0,2026-11-25
+2023-11-01,AliExpress,aliexpress,2.0,2026-11-25
+2023-12-01,AliExpress,aliexpress,2.0,2026-11-25
+2024-01-01,AliExpress,aliexpress,2.0,2026-11-25
+2024-02-01,AliExpress,aliexpress,2.0,2026-11-25
+2024-03-01,AliExpress,aliexpress,2.0,2026-11-25
+2024-04-01,AliExpress,aliexpress,2.0,2026-11-25
+2024-05-01,AliExpress,aliexpress,2.0,2026-11-25
+2024-06-01,AliExpress,aliexpress,2.0,2026-11-25
+2024-07-01,AliExpress,aliexpress,2.0,2026-11-25
+2024-08-01,AliExpress,aliexpress,2.0,2026-11-25
+2024-09-01,AliExpress,aliexpress,2.0,2026-11-25
+2024-10-01,AliExpress,aliexpress,2.0,2026-11-25
+2024-11-01,AliExpress,aliexpress,3.0,2026-11-25
+2024-12-01,AliExpress,aliexpress,2.0,2026-11-25
+2025-01-01,AliExpress,aliexpress,2.0,2026-11-25
+2025-02-01,AliExpress,aliexpress,2.0,2026-11-25
+2025-03-01,AliExpress,aliexpress,2.0,2026-11-25
+2025-04-01,AliExpress,aliexpress,2.0,2026-11-25
+2025-05-01,AliExpress,aliexpress,2.0,2026-11-25
+2025-06-01,AliExpress,aliexpress,2.0,2026-11-25
+2025-07-01,AliExpress,aliexpress,2.0,2026-11-25
+2025-08-01,AliExpress,aliexpress,2.0,2026-11-25
+2025-09-01,AliExpress,aliexpress,2.0,2026-11-25
+2025-10-01,AliExpress,aliexpress,2.0,2026-11-25
+2025-11-01,AliExpress,aliexpress,3.0,2026-11-25
+2025-12-01,AliExpress,aliexpress,2.0,2026-11-25
+2016-01-01,Zara,zara,12.0,2026-11-25
+2016-02-01,Zara,zara,10.0,2026-11-25
+2016-03-01,Zara,zara,11.0,2026-11-25
+2016-04-01,Zara,zara,13.0,2026-11-25
+2016-05-01,Zara,zara,12.0,2026-11-25
+2016-06-01,Zara,zara,10.0,2026-11-25
+2016-07-01,Zara,zara,11.0,2026-11-25
+2016-08-01,Zara,zara,10.0,2026-11-25
+2016-09-01,Zara,zara,14.0,2026-11-25
+2016-10-01,Zara,zara,15.0,2026-11-25
+2016-11-01,Zara,zara,17.0,2026-11-25
+2016-12-01,Zara,zara,16.0,2026-11-25
+2017-01-01,Zara,zara,16.0,2026-11-25
+2017-02-01,Zara,zara,11.0,2026-11-25
+2017-03-01,Zara,zara,14.0,2026-11-25
+2017-04-01,Zara,zara,14.0,2026-11-25
+2017-05-01,Zara,zara,14.0,2026-11-25
+2017-06-01,Zara,zara,12.0,2026-11-25
+2017-07-01,Zara,zara,12.0,2026-11-25
+2017-08-01,Zara,zara,12.0,2026-11-25
+2017-09-01,Zara,zara,16.0,2026-11-25
+2017-10-01,Zara,zara,19.0,2026-11-25
+2017-11-01,Zara,zara,25.0,2026-11-25
+2017-12-01,Zara,zara,21.0,2026-11-25
+2018-01-01,Zara,zara,20.0,2026-11-25
+2018-02-01,Zara,zara,14.0,2026-11-25
+2018-03-01,Zara,zara,17.0,2026-11-25
+2018-04-01,Zara,zara,17.0,2026-11-25
+2018-05-01,Zara,zara,15.0,2026-11-25
+2018-06-01,Zara,zara,14.0,2026-11-25
+2018-07-01,Zara,zara,14.0,2026-11-25
+2018-08-01,Zara,zara,12.0,2026-11-25
+2018-09-01,Zara,zara,17.0,2026-11-25
+2018-10-01,Zara,zara,20.0,2026-11-25
+2018-11-01,Zara,zara,24.0,2026-11-25
+2018-12-01,Zara,zara,21.0,2026-11-25
+2019-01-01,Zara,zara,21.0,2026-11-25
+2019-02-01,Zara,zara,15.0,2026-11-25
+2019-03-01,Zara,zara,16.0,2026-11-25
+2019-04-01,Zara,zara,17.0,2026-11-25
+2019-05-01,Zara,zara,17.0,2026-11-25
+2019-06-01,Zara,zara,15.0,2026-11-25
+2019-07-01,Zara,zara,16.0,2026-11-25
+2019-08-01,Zara,zara,14.0,2026-11-25
+2019-09-01,Zara,zara,18.0,2026-11-25
+2019-10-01,Zara,zara,21.0,2026-11-25
+2019-11-01,Zara,zara,27.0,2026-11-25
+2019-12-01,Zara,zara,25.0,2026-11-25
+2020-01-01,Zara,zara,25.0,2026-11-25
+2020-02-01,Zara,zara,17.0,2026-11-25
+2020-03-01,Zara,zara,11.0,2026-11-25
+2020-04-01,Zara,zara,15.0,2026-11-25
+2020-05-01,Zara,zara,20.0,2026-11-25
+2020-06-01,Zara,zara,19.0,2026-11-25
+2020-07-01,Zara,zara,19.0,2026-11-25
+2020-08-01,Zara,zara,15.0,2026-11-25
+2020-09-01,Zara,zara,17.0,2026-11-25
+2020-10-01,Zara,zara,20.0,2026-11-25
+2020-11-01,Zara,zara,26.0,2026-11-25
+2020-12-01,Zara,zara,22.0,2026-11-25
+2021-01-01,Zara,zara,26.0,2026-11-25
+2021-02-01,Zara,zara,18.0,2026-11-25
+2021-03-01,Zara,zara,15.0,2026-11-25
+2021-04-01,Zara,zara,23.0,2026-11-25
+2021-05-01,Zara,zara,19.0,2026-11-25
+2021-06-01,Zara,zara,14.0,2026-11-25
+2021-07-01,Zara,zara,14.0,2026-11-25
+2021-08-01,Zara,zara,11.0,2026-11-25
+2021-09-01,Zara,zara,14.0,2026-11-25
+2021-10-01,Zara,zara,18.0,2026-11-25
+2021-11-01,Zara,zara,20.0,2026-11-25
+2021-12-01,Zara,zara,18.0,2026-11-25
+2022-01-01,Zara,zara,18.0,2026-11-25
+2022-02-01,Zara,zara,14.0,2026-11-25
+2022-03-01,Zara,zara,14.0,2026-11-25
+2022-04-01,Zara,zara,17.0,2026-11-25
+2022-05-01,Zara,zara,16.0,2026-11-25
+2022-06-01,Zara,zara,15.0,2026-11-25
+2022-07-01,Zara,zara,15.0,2026-11-25
+2022-08-01,Zara,zara,14.0,2026-11-25
+2022-09-01,Zara,zara,16.0,2026-11-25
+2022-10-01,Zara,zara,19.0,2026-11-25
+2022-11-01,Zara,zara,22.0,2026-11-25
+2022-12-01,Zara,zara,19.0,2026-11-25
+2023-01-01,Zara,zara,20.0,2026-11-25
+2023-02-01,Zara,zara,14.0,2026-11-25
+2023-03-01,Zara,zara,14.0,2026-11-25
+2023-04-01,Zara,zara,17.0,2026-11-25
+2023-05-01,Zara,zara,15.0,2026-11-25
+2023-06-01,Zara,zara,16.0,2026-11-25
+2023-07-01,Zara,zara,16.0,2026-11-25
+2023-08-01,Zara,zara,12.0,2026-11-25
+2023-09-01,Zara,zara,14.0,2026-11-25
+2023-10-01,Zara,zara,16.0,2026-11-25
+2023-11-01,Zara,zara,23.0,2026-11-25
+2023-12-01,Zara,zara,21.0,2026-11-25
+2024-01-01,Zara,zara,19.0,2026-11-25
+2024-02-01,Zara,zara,12.0,2026-11-25
+2024-03-01,Zara,zara,13.0,2026-11-25
+2024-04-01,Zara,zara,15.0,2026-11-25
+2024-05-01,Zara,zara,15.0,2026-11-25
+2024-06-01,Zara,zara,16.0,2026-11-25
+2024-07-01,Zara,zara,14.0,2026-11-25
+2024-08-01,Zara,zara,12.0,2026-11-25
+2024-09-01,Zara,zara,14.0,2026-11-25
+2024-10-01,Zara,zara,17.0,2026-11-25
+2024-11-01,Zara,zara,22.0,2026-11-25
+2024-12-01,Zara,zara,19.0,2026-11-25
+2025-01-01,Zara,zara,16.0,2026-11-25
+2025-02-01,Zara,zara,12.0,2026-11-25
+2025-03-01,Zara,zara,13.0,2026-11-25
+2025-04-01,Zara,zara,15.0,2026-11-25
+2025-05-01,Zara,zara,14.0,2026-11-25
+2025-06-01,Zara,zara,14.0,2026-11-25
+2025-07-01,Zara,zara,13.0,2026-11-25
+2025-08-01,Zara,zara,12.0,2026-11-25
+2025-09-01,Zara,zara,13.0,2026-11-25
+2025-10-01,Zara,zara,16.0,2026-11-25
+2025-11-01,Zara,zara,18.0,2026-11-25
+2025-12-01,Zara,zara,17.0,2026-11-25
+2016-01-01,H&M,h&m,5.0,2026-11-25
+2016-02-01,H&M,h&m,4.0,2026-11-25
+2016-03-01,H&M,h&m,5.0,2026-11-25
+2016-04-01,H&M,h&m,8.0,2026-11-25
+2016-05-01,H&M,h&m,9.0,2026-11-25
+2016-06-01,H&M,h&m,8.0,2026-11-25
+2016-07-01,H&M,h&m,7.0,2026-11-25
+2016-08-01,H&M,h&m,5.0,2026-11-25
+2016-09-01,H&M,h&m,7.0,2026-11-25
+2016-10-01,H&M,h&m,8.0,2026-11-25
+2016-11-01,H&M,h&m,8.0,2026-11-25
+2016-12-01,H&M,h&m,8.0,2026-11-25
+2017-01-01,H&M,h&m,6.0,2026-11-25
+2017-02-01,H&M,h&m,4.0,2026-11-25
+2017-03-01,H&M,h&m,6.0,2026-11-25
+2017-04-01,H&M,h&m,7.0,2026-11-25
+2017-05-01,H&M,h&m,8.0,2026-11-25
+2017-06-01,H&M,h&m,7.0,2026-11-25
+2017-07-01,H&M,h&m,7.0,2026-11-25
+2017-08-01,H&M,h&m,5.0,2026-11-25
+2017-09-01,H&M,h&m,7.0,2026-11-25
+2017-10-01,H&M,h&m,8.0,2026-11-25
+2017-11-01,H&M,h&m,9.0,2026-11-25
+2017-12-01,H&M,h&m,8.0,2026-11-25
+2018-01-01,H&M,h&m,7.0,2026-11-25
+2018-02-01,H&M,h&m,5.0,2026-11-25
+2018-03-01,H&M,h&m,6.0,2026-11-25
+2018-04-01,H&M,h&m,7.0,2026-11-25
+2018-05-01,H&M,h&m,7.0,2026-11-25
+2018-06-01,H&M,h&m,7.0,2026-11-25
+2018-07-01,H&M,h&m,6.0,2026-11-25
+2018-08-01,H&M,h&m,5.0,2026-11-25
+2018-09-01,H&M,h&m,7.0,2026-11-25
+2018-10-01,H&M,h&m,7.0,2026-11-25
+2018-11-01,H&M,h&m,9.0,2026-11-25
+2018-12-01,H&M,h&m,8.0,2026-11-25
+2019-01-01,H&M,h&m,6.0,2026-11-25
+2019-02-01,H&M,h&m,5.0,2026-11-25
+2019-03-01,H&M,h&m,5.0,2026-11-25
+2019-04-01,H&M,h&m,7.0,2026-11-25
+2019-05-01,H&M,h&m,7.0,2026-11-25
+2019-06-01,H&M,h&m,8.0,2026-11-25
+2019-07-01,H&M,h&m,7.0,2026-11-25
+2019-08-01,H&M,h&m,5.0,2026-11-25
+2019-09-01,H&M,h&m,7.0,2026-11-25
+2019-10-01,H&M,h&m,7.0,2026-11-25
+2019-11-01,H&M,h&m,9.0,2026-11-25
+2019-12-01,H&M,h&m,8.0,2026-11-25
+2020-01-01,H&M,h&m,7.0,2026-11-25
+2020-02-01,H&M,h&m,5.0,2026-11-25
+2020-03-01,H&M,h&m,4.0,2026-11-25
+2020-04-01,H&M,h&m,8.0,2026-11-25
+2020-05-01,H&M,h&m,10.0,2026-11-25
+2020-06-01,H&M,h&m,8.0,2026-11-25
+2020-07-01,H&M,h&m,7.0,2026-11-25
+2020-08-01,H&M,h&m,5.0,2026-11-25
+2020-09-01,H&M,h&m,6.0,2026-11-25
+2020-10-01,H&M,h&m,7.0,2026-11-25
+2020-11-01,H&M,h&m,8.0,2026-11-25
+2020-12-01,H&M,h&m,7.0,2026-11-25
+2021-01-01,H&M,h&m,8.0,2026-11-25
+2021-02-01,H&M,h&m,5.0,2026-11-25
+2021-03-01,H&M,h&m,5.0,2026-11-25
+2021-04-01,H&M,h&m,9.0,2026-11-25
+2021-05-01,H&M,h&m,8.0,2026-11-25
+2021-06-01,H&M,h&m,6.0,2026-11-25
+2021-07-01,H&M,h&m,5.0,2026-11-25
+2021-08-01,H&M,h&m,4.0,2026-11-25
+2021-09-01,H&M,h&m,5.0,2026-11-25
+2021-10-01,H&M,h&m,6.0,2026-11-25
+2021-11-01,H&M,h&m,6.0,2026-11-25
+2021-12-01,H&M,h&m,4.0,2026-11-25
+2022-01-01,H&M,h&m,4.0,2026-11-25
+2022-02-01,H&M,h&m,3.0,2026-11-25
+2022-03-01,H&M,h&m,3.0,2026-11-25
+2022-04-01,H&M,h&m,5.0,2026-11-25
+2022-05-01,H&M,h&m,5.0,2026-11-25
+2022-06-01,H&M,h&m,4.0,2026-11-25
+2022-07-01,H&M,h&m,4.0,2026-11-25
+2022-08-01,H&M,h&m,3.0,2026-11-25
+2022-09-01,H&M,h&m,4.0,2026-11-25
+2022-10-01,H&M,h&m,5.0,2026-11-25
+2022-11-01,H&M,h&m,5.0,2026-11-25
+2022-12-01,H&M,h&m,5.0,2026-11-25
+2023-01-01,H&M,h&m,4.0,2026-11-25
+2023-02-01,H&M,h&m,3.0,2026-11-25
+2023-03-01,H&M,h&m,3.0,2026-11-25
+2023-04-01,H&M,h&m,3.0,2026-11-25
+2023-05-01,H&M,h&m,3.0,2026-11-25
+2023-06-01,H&M,h&m,3.0,2026-11-25
+2023-07-01,H&M,h&m,3.0,2026-11-25
+2023-08-01,H&M,h&m,2.0,2026-11-25
+2023-09-01,H&M,h&m,3.0,2026-11-25
+2023-10-01,H&M,h&m,3.0,2026-11-25
+2023-11-01,H&M,h&m,4.0,2026-11-25
+2023-12-01,H&M,h&m,4.0,2026-11-25
+2024-01-01,H&M,h&m,3.0,2026-11-25
+2024-02-01,H&M,h&m,2.0,2026-11-25
+2024-03-01,H&M,h&m,2.0,2026-11-25
+2024-04-01,H&M,h&m,3.0,2026-11-25
+2024-05-01,H&M,h&m,3.0,2026-11-25
+2024-06-01,H&M,h&m,3.0,2026-11-25
+2024-07-01,H&M,h&m,2.0,2026-11-25
+2024-08-01,H&M,h&m,2.0,2026-11-25
+2024-09-01,H&M,h&m,2.0,2026-11-25
+2024-10-01,H&M,h&m,3.0,2026-11-25
+2024-11-01,H&M,h&m,3.0,2026-11-25
+2024-12-01,H&M,h&m,3.0,2026-11-25
+2025-01-01,H&M,h&m,2.0,2026-11-25
+2025-02-01,H&M,h&m,2.0,2026-11-25
+2025-03-01,H&M,h&m,2.0,2026-11-25
+2025-04-01,H&M,h&m,2.0,2026-11-25
+2025-05-01,H&M,h&m,3.0,2026-11-25
+2025-06-01,H&M,h&m,3.0,2026-11-25
+2025-07-01,H&M,h&m,2.0,2026-11-25
+2025-08-01,H&M,h&m,2.0,2026-11-25
+2025-09-01,H&M,h&m,2.0,2026-11-25
+2025-10-01,H&M,h&m,3.0,2026-11-25
+2025-11-01,H&M,h&m,3.0,2026-11-25
+2025-12-01,H&M,h&m,3.0,2026-11-25
+2016-01-01,Hondos Center,hondos,3.0,2026-11-25
+2016-02-01,Hondos Center,hondos,2.0,2026-11-25
+2016-03-01,Hondos Center,hondos,2.0,2026-11-25
+2016-04-01,Hondos Center,hondos,2.0,2026-11-25
+2016-05-01,Hondos Center,hondos,2.0,2026-11-25
+2016-06-01,Hondos Center,hondos,2.0,2026-11-25
+2016-07-01,Hondos Center,hondos,3.0,2026-11-25
+2016-08-01,Hondos Center,hondos,2.0,2026-11-25
+2016-09-01,Hondos Center,hondos,2.0,2026-11-25
+2016-10-01,Hondos Center,hondos,2.0,2026-11-25
+2016-11-01,Hondos Center,hondos,3.0,2026-11-25
+2016-12-01,Hondos Center,hondos,4.0,2026-11-25
+2017-01-01,Hondos Center,hondos,3.0,2026-11-25
+2017-02-01,Hondos Center,hondos,3.0,2026-11-25
+2017-03-01,Hondos Center,hondos,2.0,2026-11-25
+2017-04-01,Hondos Center,hondos,3.0,2026-11-25
+2017-05-01,Hondos Center,hondos,3.0,2026-11-25
+2017-06-01,Hondos Center,hondos,3.0,2026-11-25
+2017-07-01,Hondos Center,hondos,3.0,2026-11-25
+2017-08-01,Hondos Center,hondos,3.0,2026-11-25
+2017-09-01,Hondos Center,hondos,2.0,2026-11-25
+2017-10-01,Hondos Center,hondos,2.0,2026-11-25
+2017-11-01,Hondos Center,hondos,4.0,2026-11-25
+2017-12-01,Hondos Center,hondos,4.0,2026-11-25
+2018-01-01,Hondos Center,hondos,3.0,2026-11-25
+2018-02-01,Hondos Center,hondos,3.0,2026-11-25
+2018-03-01,Hondos Center,hondos,3.0,2026-11-25
+2018-04-01,Hondos Center,hondos,3.0,2026-11-25
+2018-05-01,Hondos Center,hondos,3.0,2026-11-25
+2018-06-01,Hondos Center,hondos,3.0,2026-11-25
+2018-07-01,Hondos Center,hondos,3.0,2026-11-25
+2018-08-01,Hondos Center,hondos,3.0,2026-11-25
+2018-09-01,Hondos Center,hondos,2.0,2026-11-25
+2018-10-01,Hondos Center,hondos,3.0,2026-11-25
+2018-11-01,Hondos Center,hondos,4.0,2026-11-25
+2018-12-01,Hondos Center,hondos,4.0,2026-11-25
+2019-01-01,Hondos Center,hondos,3.0,2026-11-25
+2019-02-01,Hondos Center,hondos,3.0,2026-11-25
+2019-03-01,Hondos Center,hondos,3.0,2026-11-25
+2019-04-01,Hondos Center,hondos,3.0,2026-11-25
+2019-05-01,Hondos Center,hondos,3.0,2026-11-25
+2019-06-01,Hondos Center,hondos,3.0,2026-11-25
+2019-07-01,Hondos Center,hondos,4.0,2026-11-25
+2019-08-01,Hondos Center,hondos,3.0,2026-11-25
+2019-09-01,Hondos Center,hondos,3.0,2026-11-25
+2019-10-01,Hondos Center,hondos,4.0,2026-11-25
+2019-11-01,Hondos Center,hondos,7.0,2026-11-25
+2019-12-01,Hondos Center,hondos,7.0,2026-11-25
+2020-01-01,Hondos Center,hondos,5.0,2026-11-25
+2020-02-01,Hondos Center,hondos,4.0,2026-11-25
+2020-03-01,Hondos Center,hondos,6.0,2026-11-25
+2020-04-01,Hondos Center,hondos,6.0,2026-11-25
+2020-05-01,Hondos Center,hondos,8.0,2026-11-25
+2020-06-01,Hondos Center,hondos,5.0,2026-11-25
+2020-07-01,Hondos Center,hondos,8.0,2026-11-25
+2020-08-01,Hondos Center,hondos,5.0,2026-11-25
+2020-09-01,Hondos Center,hondos,4.0,2026-11-25
+2020-10-01,Hondos Center,hondos,6.0,2026-11-25
+2020-11-01,Hondos Center,hondos,11.0,2026-11-25
+2020-12-01,Hondos Center,hondos,13.0,2026-11-25
+2021-01-01,Hondos Center,hondos,8.0,2026-11-25
+2021-02-01,Hondos Center,hondos,6.0,2026-11-25
+2021-03-01,Hondos Center,hondos,5.0,2026-11-25
+2021-04-01,Hondos Center,hondos,9.0,2026-11-25
+2021-05-01,Hondos Center,hondos,6.0,2026-11-25
+2021-06-01,Hondos Center,hondos,5.0,2026-11-25
+2021-07-01,Hondos Center,hondos,6.0,2026-11-25
+2021-08-01,Hondos Center,hondos,4.0,2026-11-25
+2021-09-01,Hondos Center,hondos,4.0,2026-11-25
+2021-10-01,Hondos Center,hondos,4.0,2026-11-25
+2021-11-01,Hondos Center,hondos,7.0,2026-11-25
+2021-12-01,Hondos Center,hondos,7.0,2026-11-25
+2022-01-01,Hondos Center,hondos,6.0,2026-11-25
+2022-02-01,Hondos Center,hondos,5.0,2026-11-25
+2022-03-01,Hondos Center,hondos,6.0,2026-11-25
+2022-04-01,Hondos Center,hondos,7.0,2026-11-25
+2022-05-01,Hondos Center,hondos,6.0,2026-11-25
+2022-06-01,Hondos Center,hondos,6.0,2026-11-25
+2022-07-01,Hondos Center,hondos,8.0,2026-11-25
+2022-08-01,Hondos Center,hondos,7.0,2026-11-25
+2022-09-01,Hondos Center,hondos,6.0,2026-11-25
+2022-10-01,Hondos Center,hondos,6.0,2026-11-25
+2022-11-01,Hondos Center,hondos,10.0,2026-11-25
+2022-12-01,Hondos Center,hondos,10.0,2026-11-25
+2023-01-01,Hondos Center,hondos,8.0,2026-11-25
+2023-02-01,Hondos Center,hondos,7.0,2026-11-25
+2023-03-01,Hondos Center,hondos,7.0,2026-11-25
+2023-04-01,Hondos Center,hondos,8.0,2026-11-25
+2023-05-01,Hondos Center,hondos,7.0,2026-11-25
+2023-06-01,Hondos Center,hondos,7.0,2026-11-25
+2023-07-01,Hondos Center,hondos,8.0,2026-11-25
+2023-08-01,Hondos Center,hondos,6.0,2026-11-25
+2023-09-01,Hondos Center,hondos,6.0,2026-11-25
+2023-10-01,Hondos Center,hondos,6.0,2026-11-25
+2023-11-01,Hondos Center,hondos,10.0,2026-11-25
+2023-12-01,Hondos Center,hondos,10.0,2026-11-25
+2024-01-01,Hondos Center,hondos,8.0,2026-11-25
+2024-02-01,Hondos Center,hondos,6.0,2026-11-25
+2024-03-01,Hondos Center,hondos,6.0,2026-11-25
+2024-04-01,Hondos Center,hondos,7.0,2026-11-25
+2024-05-01,Hondos Center,hondos,6.0,2026-11-25
+2024-06-01,Hondos Center,hondos,6.0,2026-11-25
+2024-07-01,Hondos Center,hondos,8.0,2026-11-25
+2024-08-01,Hondos Center,hondos,7.0,2026-11-25
+2024-09-01,Hondos Center,hondos,6.0,2026-11-25
+2024-10-01,Hondos Center,hondos,6.0,2026-11-25
+2024-11-01,Hondos Center,hondos,9.0,2026-11-25
+2024-12-01,Hondos Center,hondos,10.0,2026-11-25
+2025-01-01,Hondos Center,hondos,7.0,2026-11-25
+2025-02-01,Hondos Center,hondos,6.0,2026-11-25
+2025-03-01,Hondos Center,hondos,5.0,2026-11-25
+2025-04-01,Hondos Center,hondos,8.0,2026-11-25
+2025-05-01,Hondos Center,hondos,6.0,2026-11-25
+2025-06-01,Hondos Center,hondos,6.0,2026-11-25
+2025-07-01,Hondos Center,hondos,7.0,2026-11-25
+2025-08-01,Hondos Center,hondos,6.0,2026-11-25
+2025-09-01,Hondos Center,hondos,5.0,2026-11-25
+2025-10-01,Hondos Center,hondos,5.0,2026-11-25
+2025-11-01,Hondos Center,hondos,10.0,2026-11-25
+2025-12-01,Hondos Center,hondos,9.0,2026-11-25
+2016-01-01,Sephora,sephora,2.0,2026-11-25
+2016-02-01,Sephora,sephora,1.0,2026-11-25
+2016-03-01,Sephora,sephora,2.0,2026-11-25
+2016-04-01,Sephora,sephora,2.0,2026-11-25
+2016-05-01,Sephora,sephora,2.0,2026-11-25
+2016-06-01,Sephora,sephora,2.0,2026-11-25
+2016-07-01,Sephora,sephora,2.0,2026-11-25
+2016-08-01,Sephora,sephora,2.0,2026-11-25
+2016-09-01,Sephora,sephora,2.0,2026-11-25
+2016-10-01,Sephora,sephora,2.0,2026-11-25
+2016-11-01,Sephora,sephora,3.0,2026-11-25
+2016-12-01,Sephora,sephora,3.0,2026-11-25
+2017-01-01,Sephora,sephora,3.0,2026-11-25
+2017-02-01,Sephora,sephora,2.0,2026-11-25
+2017-03-01,Sephora,sephora,2.0,2026-11-25
+2017-04-01,Sephora,sephora,3.0,2026-11-25
+2017-05-01,Sephora,sephora,2.0,2026-11-25
+2017-06-01,Sephora,sephora,2.0,2026-11-25
+2017-07-01,Sephora,sephora,3.0,2026-11-25
+2017-08-01,Sephora,sephora,2.0,2026-11-25
+2017-09-01,Sephora,sephora,3.0,2026-11-25
+2017-10-01,Sephora,sephora,3.0,2026-11-25
+2017-11-01,Sephora,sephora,4.0,2026-11-25
+2017-12-01,Sephora,sephora,4.0,2026-11-25
+2018-01-01,Sephora,sephora,3.0,2026-11-25
+2018-02-01,Sephora,sephora,3.0,2026-11-25
+2018-03-01,Sephora,sephora,3.0,2026-11-25
+2018-04-01,Sephora,sephora,3.0,2026-11-25
+2018-05-01,Sephora,sephora,3.0,2026-11-25
+2018-06-01,Sephora,sephora,2.0,2026-11-25
+2018-07-01,Sephora,sephora,3.0,2026-11-25
+2018-08-01,Sephora,sephora,3.0,2026-11-25
+2018-09-01,Sephora,sephora,3.0,2026-11-25
+2018-10-01,Sephora,sephora,3.0,2026-11-25
+2018-11-01,Sephora,sephora,4.0,2026-11-25
+2018-12-01,Sephora,sephora,4.0,2026-11-25
+2019-01-01,Sephora,sephora,3.0,2026-11-25
+2019-02-01,Sephora,sephora,3.0,2026-11-25
+2019-03-01,Sephora,sephora,3.0,2026-11-25
+2019-04-01,Sephora,sephora,3.0,2026-11-25
+2019-05-01,Sephora,sephora,3.0,2026-11-25
+2019-06-01,Sephora,sephora,2.0,2026-11-25
+2019-07-01,Sephora,sephora,3.0,2026-11-25
+2019-08-01,Sephora,sephora,2.0,2026-11-25
+2019-09-01,Sephora,sephora,2.0,2026-11-25
+2019-10-01,Sephora,sephora,3.0,2026-11-25
+2019-11-01,Sephora,sephora,5.0,2026-11-25
+2019-12-01,Sephora,sephora,4.0,2026-11-25
+2020-01-01,Sephora,sephora,3.0,2026-11-25
+2020-02-01,Sephora,sephora,3.0,2026-11-25
+2020-03-01,Sephora,sephora,3.0,2026-11-25
+2020-04-01,Sephora,sephora,3.0,2026-11-25
+2020-05-01,Sephora,sephora,3.0,2026-11-25
+2020-06-01,Sephora,sephora,2.0,2026-11-25
+2020-07-01,Sephora,sephora,3.0,2026-11-25
+2020-08-01,Sephora,sephora,2.0,2026-11-25
+2020-09-01,Sephora,sephora,2.0,2026-11-25
+2020-10-01,Sephora,sephora,3.0,2026-11-25
+2020-11-01,Sephora,sephora,5.0,2026-11-25
+2020-12-01,Sephora,sephora,5.0,2026-11-25
+2021-01-01,Sephora,sephora,3.0,2026-11-25
+2021-02-01,Sephora,sephora,2.0,2026-11-25
+2021-03-01,Sephora,sephora,2.0,2026-11-25
+2021-04-01,Sephora,sephora,3.0,2026-11-25
+2021-05-01,Sephora,sephora,2.0,2026-11-25
+2021-06-01,Sephora,sephora,2.0,2026-11-25
+2021-07-01,Sephora,sephora,2.0,2026-11-25
+2021-08-01,Sephora,sephora,2.0,2026-11-25
+2021-09-01,Sephora,sephora,2.0,2026-11-25
+2021-10-01,Sephora,sephora,2.0,2026-11-25
+2021-11-01,Sephora,sephora,4.0,2026-11-25
+2021-12-01,Sephora,sephora,3.0,2026-11-25
+2022-01-01,Sephora,sephora,3.0,2026-11-25
+2022-02-01,Sephora,sephora,2.0,2026-11-25
+2022-03-01,Sephora,sephora,3.0,2026-11-25
+2022-04-01,Sephora,sephora,3.0,2026-11-25
+2022-05-01,Sephora,sephora,3.0,2026-11-25
+2022-06-01,Sephora,sephora,2.0,2026-11-25
+2022-07-01,Sephora,sephora,3.0,2026-11-25
+2022-08-01,Sephora,sephora,3.0,2026-11-25
+2022-09-01,Sephora,sephora,2.0,2026-11-25
+2022-10-01,Sephora,sephora,3.0,2026-11-25
+2022-11-01,Sephora,sephora,4.0,2026-11-25
+2022-12-01,Sephora,sephora,4.0,2026-11-25
+2023-01-01,Sephora,sephora,3.0,2026-11-25
+2023-02-01,Sephora,sephora,3.0,2026-11-25
+2023-03-01,Sephora,sephora,3.0,2026-11-25
+2023-04-01,Sephora,sephora,4.0,2026-11-25
+2023-05-01,Sephora,sephora,3.0,2026-11-25
+2023-06-01,Sephora,sephora,3.0,2026-11-25
+2023-07-01,Sephora,sephora,3.0,2026-11-25
+2023-08-01,Sephora,sephora,3.0,2026-11-25
+2023-09-01,Sephora,sephora,3.0,2026-11-25
+2023-10-01,Sephora,sephora,3.0,2026-11-25
+2023-11-01,Sephora,sephora,5.0,2026-11-25
+2023-12-01,Sephora,sephora,5.0,2026-11-25
+2024-01-01,Sephora,sephora,4.0,2026-11-25
+2024-02-01,Sephora,sephora,3.0,2026-11-25
+2024-03-01,Sephora,sephora,3.0,2026-11-25
+2024-04-01,Sephora,sephora,3.0,2026-11-25
+2024-05-01,Sephora,sephora,3.0,2026-11-25
+2024-06-01,Sephora,sephora,3.0,2026-11-25
+2024-07-01,Sephora,sephora,3.0,2026-11-25
+2024-08-01,Sephora,sephora,3.0,2026-11-25
+2024-09-01,Sephora,sephora,3.0,2026-11-25
+2024-10-01,Sephora,sephora,3.0,2026-11-25
+2024-11-01,Sephora,sephora,5.0,2026-11-25
+2024-12-01,Sephora,sephora,4.0,2026-11-25
+2025-01-01,Sephora,sephora,4.0,2026-11-25
+2025-02-01,Sephora,sephora,3.0,2026-11-25
+2025-03-01,Sephora,sephora,3.0,2026-11-25
+2025-04-01,Sephora,sephora,4.0,2026-11-25
+2025-05-01,Sephora,sephora,3.0,2026-11-25
+2025-06-01,Sephora,sephora,3.0,2026-11-25
+2025-07-01,Sephora,sephora,3.0,2026-11-25
+2025-08-01,Sephora,sephora,3.0,2026-11-25
+2025-09-01,Sephora,sephora,3.0,2026-11-25
+2025-10-01,Sephora,sephora,3.0,2026-11-25
+2025-11-01,Sephora,sephora,4.0,2026-11-25
+2025-12-01,Sephora,sephora,4.0,2026-11-25
+2016-01-01,IKEA,ikea,8.0,2026-11-25
+2016-02-01,IKEA,ikea,7.0,2026-11-25
+2016-03-01,IKEA,ikea,8.0,2026-11-25
+2016-04-01,IKEA,ikea,8.0,2026-11-25
+2016-05-01,IKEA,ikea,7.0,2026-11-25
+2016-06-01,IKEA,ikea,7.0,2026-11-25
+2016-07-01,IKEA,ikea,8.0,2026-11-25
+2016-08-01,IKEA,ikea,10.0,2026-11-25
+2016-09-01,IKEA,ikea,12.0,2026-11-25
+2016-10-01,IKEA,ikea,10.0,2026-11-25
+2016-11-01,IKEA,ikea,10.0,2026-11-25
+2016-12-01,IKEA,ikea,7.0,2026-11-25
+2017-01-01,IKEA,ikea,8.0,2026-11-25
+2017-02-01,IKEA,ikea,6.0,2026-11-25
+2017-03-01,IKEA,ikea,7.0,2026-11-25
+2017-04-01,IKEA,ikea,7.0,2026-11-25
+2017-05-01,IKEA,ikea,7.0,2026-11-25
+2017-06-01,IKEA,ikea,6.0,2026-11-25
+2017-07-01,IKEA,ikea,8.0,2026-11-25
+2017-08-01,IKEA,ikea,10.0,2026-11-25
+2017-09-01,IKEA,ikea,11.0,2026-11-25
+2017-10-01,IKEA,ikea,10.0,2026-11-25
+2017-11-01,IKEA,ikea,10.0,2026-11-25
+2017-12-01,IKEA,ikea,7.0,2026-11-25
+2018-01-01,IKEA,ikea,8.0,2026-11-25
+2018-02-01,IKEA,ikea,6.0,2026-11-25
+2018-03-01,IKEA,ikea,7.0,2026-11-25
+2018-04-01,IKEA,ikea,8.0,2026-11-25
+2018-05-01,IKEA,ikea,8.0,2026-11-25
+2018-06-01,IKEA,ikea,7.0,2026-11-25
+2018-07-01,IKEA,ikea,7.0,2026-11-25
+2018-08-01,IKEA,ikea,9.0,2026-11-25
+2018-09-01,IKEA,ikea,11.0,2026-11-25
+2018-10-01,IKEA,ikea,10.0,2026-11-25
+2018-11-01,IKEA,ikea,10.0,2026-11-25
+2018-12-01,IKEA,ikea,7.0,2026-11-25
+2019-01-01,IKEA,ikea,8.0,2026-11-25
+2019-02-01,IKEA,ikea,7.0,2026-11-25
+2019-03-01,IKEA,ikea,7.0,2026-11-25
+2019-04-01,IKEA,ikea,7.0,2026-11-25
+2019-05-01,IKEA,ikea,7.0,2026-11-25
+2019-06-01,IKEA,ikea,7.0,2026-11-25
+2019-07-01,IKEA,ikea,7.0,2026-11-25
+2019-08-01,IKEA,ikea,9.0,2026-11-25
+2019-09-01,IKEA,ikea,11.0,2026-11-25
+2019-10-01,IKEA,ikea,9.0,2026-11-25
+2019-11-01,IKEA,ikea,10.0,2026-11-25
+2019-12-01,IKEA,ikea,7.0,2026-11-25
+2020-01-01,IKEA,ikea,8.0,2026-11-25
+2020-02-01,IKEA,ikea,7.0,2026-11-25
+2020-03-01,IKEA,ikea,6.0,2026-11-25
+2020-04-01,IKEA,ikea,8.0,2026-11-25
+2020-05-01,IKEA,ikea,10.0,2026-11-25
+2020-06-01,IKEA,ikea,8.0,2026-11-25
+2020-07-01,IKEA,ikea,7.0,2026-11-25
+2020-08-01,IKEA,ikea,9.0,2026-11-25
+2020-09-01,IKEA,ikea,10.0,2026-11-25
+2020-10-01,IKEA,ikea,10.0,2026-11-25
+2020-11-01,IKEA,ikea,10.0,2026-11-25
+2020-12-01,IKEA,ikea,7.0,2026-11-25
+2021-01-01,IKEA,ikea,9.0,2026-11-25
+2021-02-01,IKEA,ikea,7.0,2026-11-25
+2021-03-01,IKEA,ikea,6.0,2026-11-25
+2021-04-01,IKEA,ikea,8.0,2026-11-25
+2021-05-01,IKEA,ikea,7.0,2026-11-25
+2021-06-01,IKEA,ikea,6.0,2026-11-25
+2021-07-01,IKEA,ikea,6.0,2026-11-25
+2021-08-01,IKEA,ikea,7.0,2026-11-25
+2021-09-01,IKEA,ikea,9.0,2026-11-25
+2021-10-01,IKEA,ikea,8.0,2026-11-25
+2021-11-01,IKEA,ikea,8.0,2026-11-25
+2021-12-01,IKEA,ikea,6.0,2026-11-25
+2022-01-01,IKEA,ikea,8.0,2026-11-25
+2022-02-01,IKEA,ikea,6.0,2026-11-25
+2022-03-01,IKEA,ikea,6.0,2026-11-25
+2022-04-01,IKEA,ikea,6.0,2026-11-25
+2022-05-01,IKEA,ikea,7.0,2026-11-25
+2022-06-01,IKEA,ikea,6.0,2026-11-25
+2022-07-01,IKEA,ikea,7.0,2026-11-25
+2022-08-01,IKEA,ikea,8.0,2026-11-25
+2022-09-01,IKEA,ikea,9.0,2026-11-25
+2022-10-01,IKEA,ikea,8.0,2026-11-25
+2022-11-01,IKEA,ikea,9.0,2026-11-25
+2022-12-01,IKEA,ikea,6.0,2026-11-25
+2023-01-01,IKEA,ikea,7.0,2026-11-25
+2023-02-01,IKEA,ikea,6.0,2026-11-25
+2023-03-01,IKEA,ikea,6.0,2026-11-25
+2023-04-01,IKEA,ikea,6.0,2026-11-25
+2023-05-01,IKEA,ikea,6.0,2026-11-25
+2023-06-01,IKEA,ikea,6.0,2026-11-25
+2023-07-01,IKEA,ikea,6.0,2026-11-25
+2023-08-01,IKEA,ikea,7.0,2026-11-25
+2023-09-01,IKEA,ikea,8.0,2026-11-25
+2023-10-01,IKEA,ikea,8.0,2026-11-25
+2023-11-01,IKEA,ikea,8.0,2026-11-25
+2023-12-01,IKEA,ikea,6.0,2026-11-25
+2024-01-01,IKEA,ikea,7.0,2026-11-25
+2024-02-01,IKEA,ikea,6.0,2026-11-25
+2024-03-01,IKEA,ikea,6.0,2026-11-25
+2024-04-01,IKEA,ikea,6.0,2026-11-25
+2024-05-01,IKEA,ikea,6.0,2026-11-25
+2024-06-01,IKEA,ikea,6.0,2026-11-25
+2024-07-01,IKEA,ikea,7.0,2026-11-25
+2024-08-01,IKEA,ikea,8.0,2026-11-25
+2024-09-01,IKEA,ikea,9.0,2026-11-25
+2024-10-01,IKEA,ikea,8.0,2026-11-25
+2024-11-01,IKEA,ikea,10.0,2026-11-25
+2024-12-01,IKEA,ikea,7.0,2026-11-25
+2025-01-01,IKEA,ikea,7.0,2026-11-25
+2025-02-01,IKEA,ikea,6.0,2026-11-25
+2025-03-01,IKEA,ikea,6.0,2026-11-25
+2025-04-01,IKEA,ikea,7.0,2026-11-25
+2025-05-01,IKEA,ikea,7.0,2026-11-25
+2025-06-01,IKEA,ikea,6.0,2026-11-25
+2025-07-01,IKEA,ikea,7.0,2026-11-25
+2025-08-01,IKEA,ikea,8.0,2026-11-25
+2025-09-01,IKEA,ikea,9.0,2026-11-25
+2025-10-01,IKEA,ikea,8.0,2026-11-25
+2025-11-01,IKEA,ikea,9.0,2026-11-25
+2025-12-01,IKEA,ikea,7.0,2026-11-25
+2016-01-01,Jumbo,jumbo,7.0,2026-11-25
+2016-02-01,Jumbo,jumbo,12.0,2026-11-25
+2016-03-01,Jumbo,jumbo,11.0,2026-11-25
+2016-04-01,Jumbo,jumbo,15.0,2026-11-25
+2016-05-01,Jumbo,jumbo,9.0,2026-11-25
+2016-06-01,Jumbo,jumbo,12.0,2026-11-25
+2016-07-01,Jumbo,jumbo,11.0,2026-11-25
+2016-08-01,Jumbo,jumbo,13.0,2026-11-25
+2016-09-01,Jumbo,jumbo,12.0,2026-11-25
+2016-10-01,Jumbo,jumbo,12.0,2026-11-25
+2016-11-01,Jumbo,jumbo,19.0,2026-11-25
+2016-12-01,Jumbo,jumbo,20.0,2026-11-25
+2017-01-01,Jumbo,jumbo,12.0,2026-11-25
+2017-02-01,Jumbo,jumbo,20.0,2026-11-25
+2017-03-01,Jumbo,jumbo,14.0,2026-11-25
+2017-04-01,Jumbo,jumbo,15.0,2026-11-25
+2017-05-01,Jumbo,jumbo,13.0,2026-11-25
+2017-06-01,Jumbo,jumbo,15.0,2026-11-25
+2017-07-01,Jumbo,jumbo,16.0,2026-11-25
+2017-08-01,Jumbo,jumbo,17.0,2026-11-25
+2017-09-01,Jumbo,jumbo,16.0,2026-11-25
+2017-10-01,Jumbo,jumbo,15.0,2026-11-25
+2017-11-01,Jumbo,jumbo,23.0,2026-11-25
+2017-12-01,Jumbo,jumbo,26.0,2026-11-25
+2018-01-01,Jumbo,jumbo,17.0,2026-11-25
+2018-02-01,Jumbo,jumbo,19.0,2026-11-25
+2018-03-01,Jumbo,jumbo,17.0,2026-11-25
+2018-04-01,Jumbo,jumbo,16.0,2026-11-25
+2018-05-01,Jumbo,jumbo,15.0,2026-11-25
+2018-06-01,Jumbo,jumbo,18.0,2026-11-25
+2018-07-01,Jumbo,jumbo,17.0,2026-11-25
+2018-08-01,Jumbo,jumbo,19.0,2026-11-25
+2018-09-01,Jumbo,jumbo,17.0,2026-11-25
+2018-10-01,Jumbo,jumbo,18.0,2026-11-25
+2018-11-01,Jumbo,jumbo,27.0,2026-11-25
+2018-12-01,Jumbo,jumbo,29.0,2026-11-25
+2019-01-01,Jumbo,jumbo,16.0,2026-11-25
+2019-02-01,Jumbo,jumbo,23.0,2026-11-25
+2019-03-01,Jumbo,jumbo,20.0,2026-11-25
+2019-04-01,Jumbo,jumbo,23.0,2026-11-25
+2019-05-01,Jumbo,jumbo,18.0,2026-11-25
+2019-06-01,Jumbo,jumbo,22.0,2026-11-25
+2019-07-01,Jumbo,jumbo,20.0,2026-11-25
+2019-08-01,Jumbo,jumbo,23.0,2026-11-25
+2019-09-01,Jumbo,jumbo,20.0,2026-11-25
+2019-10-01,Jumbo,jumbo,20.0,2026-11-25
+2019-11-01,Jumbo,jumbo,30.0,2026-11-25
+2019-12-01,Jumbo,jumbo,36.0,2026-11-25
+2020-01-01,Jumbo,jumbo,21.0,2026-11-25
+2020-02-01,Jumbo,jumbo,28.0,2026-11-25
+2020-03-01,Jumbo,jumbo,22.0,2026-11-25
+2020-04-01,Jumbo,jumbo,25.0,2026-11-25
+2020-05-01,Jumbo,jumbo,35.0,2026-11-25
+2020-06-01,Jumbo,jumbo,27.0,2026-11-25
+2020-07-01,Jumbo,jumbo,28.0,2026-11-25
+2020-08-01,Jumbo,jumbo,26.0,2026-11-25
+2020-09-01,Jumbo,jumbo,25.0,2026-11-25
+2020-10-01,Jumbo,jumbo,26.0,2026-11-25
+2020-11-01,Jumbo,jumbo,37.0,2026-11-25
+2020-12-01,Jumbo,jumbo,28.0,2026-11-25
+2021-01-01,Jumbo,jumbo,25.0,2026-11-25
+2021-02-01,Jumbo,jumbo,21.0,2026-11-25
+2021-03-01,Jumbo,jumbo,19.0,2026-11-25
+2021-04-01,Jumbo,jumbo,41.0,2026-11-25
+2021-05-01,Jumbo,jumbo,28.0,2026-11-25
+2021-06-01,Jumbo,jumbo,24.0,2026-11-25
+2021-07-01,Jumbo,jumbo,22.0,2026-11-25
+2021-08-01,Jumbo,jumbo,22.0,2026-11-25
+2021-09-01,Jumbo,jumbo,20.0,2026-11-25
+2021-10-01,Jumbo,jumbo,22.0,2026-11-25
+2021-11-01,Jumbo,jumbo,32.0,2026-11-25
+2021-12-01,Jumbo,jumbo,28.0,2026-11-25
+2022-01-01,Jumbo,jumbo,19.0,2026-11-25
+2022-02-01,Jumbo,jumbo,25.0,2026-11-25
+2022-03-01,Jumbo,jumbo,22.0,2026-11-25
+2022-04-01,Jumbo,jumbo,25.0,2026-11-25
+2022-05-01,Jumbo,jumbo,22.0,2026-11-25
+2022-06-01,Jumbo,jumbo,22.0,2026-11-25
+2022-07-01,Jumbo,jumbo,22.0,2026-11-25
+2022-08-01,Jumbo,jumbo,24.0,2026-11-25
+2022-09-01,Jumbo,jumbo,24.0,2026-11-25
+2022-10-01,Jumbo,jumbo,26.0,2026-11-25
+2022-11-01,Jumbo,jumbo,35.0,2026-11-25
+2022-12-01,Jumbo,jumbo,34.0,2026-11-25
+2023-01-01,Jumbo,jumbo,23.0,2026-11-25
+2023-02-01,Jumbo,jumbo,31.0,2026-11-25
+2023-03-01,Jumbo,jumbo,23.0,2026-11-25
+2023-04-01,Jumbo,jumbo,24.0,2026-11-25
+2023-05-01,Jumbo,jumbo,21.0,2026-11-25
+2023-06-01,Jumbo,jumbo,25.0,2026-11-25
+2023-07-01,Jumbo,jumbo,24.0,2026-11-25
+2023-08-01,Jumbo,jumbo,22.0,2026-11-25
+2023-09-01,Jumbo,jumbo,23.0,2026-11-25
+2023-10-01,Jumbo,jumbo,24.0,2026-11-25
+2023-11-01,Jumbo,jumbo,36.0,2026-11-25
+2023-12-01,Jumbo,jumbo,35.0,2026-11-25
+2024-01-01,Jumbo,jumbo,22.0,2026-11-25
+2024-02-01,Jumbo,jumbo,24.0,2026-11-25
+2024-03-01,Jumbo,jumbo,26.0,2026-11-25
+2024-04-01,Jumbo,jumbo,24.0,2026-11-25
+2024-05-01,Jumbo,jumbo,22.0,2026-11-25
+2024-06-01,Jumbo,jumbo,24.0,2026-11-25
+2024-07-01,Jumbo,jumbo,23.0,2026-11-25
+2024-08-01,Jumbo,jumbo,23.0,2026-11-25
+2024-09-01,Jumbo,jumbo,22.0,2026-11-25
+2024-10-01,Jumbo,jumbo,23.0,2026-11-25
+2024-11-01,Jumbo,jumbo,33.0,2026-11-25
+2024-12-01,Jumbo,jumbo,32.0,2026-11-25
+2025-01-01,Jumbo,jumbo,20.0,2026-11-25
+2025-02-01,Jumbo,jumbo,26.0,2026-11-25
+2025-03-01,Jumbo,jumbo,20.0,2026-11-25
+2025-04-01,Jumbo,jumbo,22.0,2026-11-25
+2025-05-01,Jumbo,jumbo,20.0,2026-11-25
+2025-06-01,Jumbo,jumbo,23.0,2026-11-25
+2025-07-01,Jumbo,jumbo,24.0,2026-11-25
+2025-08-01,Jumbo,jumbo,21.0,2026-11-25
+2025-09-01,Jumbo,jumbo,21.0,2026-11-25
+2025-10-01,Jumbo,jumbo,22.0,2026-11-25
+2025-11-01,Jumbo,jumbo,32.0,2026-11-25
+2025-12-01,Jumbo,jumbo,32.0,2026-11-25
+2016-01-01,Intersport,intersport,3.0,2026-11-25
+2016-02-01,Intersport,intersport,3.0,2026-11-25
+2016-03-01,Intersport,intersport,3.0,2026-11-25
+2016-04-01,Intersport,intersport,4.0,2026-11-25
+2016-05-01,Intersport,intersport,2.0,2026-11-25
+2016-06-01,Intersport,intersport,2.0,2026-11-25
+2016-07-01,Intersport,intersport,3.0,2026-11-25
+2016-08-01,Intersport,intersport,3.0,2026-11-25
+2016-09-01,Intersport,intersport,3.0,2026-11-25
+2016-10-01,Intersport,intersport,3.0,2026-11-25
+2016-11-01,Intersport,intersport,3.0,2026-11-25
+2016-12-01,Intersport,intersport,2.0,2026-11-25
+2017-01-01,Intersport,intersport,3.0,2026-11-25
+2017-02-01,Intersport,intersport,2.0,2026-11-25
+2017-03-01,Intersport,intersport,3.0,2026-11-25
+2017-04-01,Intersport,intersport,3.0,2026-11-25
+2017-05-01,Intersport,intersport,3.0,2026-11-25
+2017-06-01,Intersport,intersport,2.0,2026-11-25
+2017-07-01,Intersport,intersport,3.0,2026-11-25
+2017-08-01,Intersport,intersport,3.0,2026-11-25
+2017-09-01,Intersport,intersport,3.0,2026-11-25
+2017-10-01,Intersport,intersport,3.0,2026-11-25
+2017-11-01,Intersport,intersport,4.0,2026-11-25
+2017-12-01,Intersport,intersport,3.0,2026-11-25
+2018-01-01,Intersport,intersport,3.0,2026-11-25
+2018-02-01,Intersport,intersport,3.0,2026-11-25
+2018-03-01,Intersport,intersport,3.0,2026-11-25
+2018-04-01,Intersport,intersport,3.0,2026-11-25
+2018-05-01,Intersport,intersport,3.0,2026-11-25
+2018-06-01,Intersport,intersport,2.0,2026-11-25
+2018-07-01,Intersport,intersport,3.0,2026-11-25
+2018-08-01,Intersport,intersport,3.0,2026-11-25
+2018-09-01,Intersport,intersport,4.0,2026-11-25
+2018-10-01,Intersport,intersport,3.0,2026-11-25
+2018-11-01,Intersport,intersport,4.0,2026-11-25
+2018-12-01,Intersport,intersport,3.0,2026-11-25
+2019-01-01,Intersport,intersport,3.0,2026-11-25
+2019-02-01,Intersport,intersport,3.0,2026-11-25
+2019-03-01,Intersport,intersport,3.0,2026-11-25
+2019-04-01,Intersport,intersport,4.0,2026-11-25
+2019-05-01,Intersport,intersport,3.0,2026-11-25
+2019-06-01,Intersport,intersport,3.0,2026-11-25
+2019-07-01,Intersport,intersport,3.0,2026-11-25
+2019-08-01,Intersport,intersport,3.0,2026-11-25
+2019-09-01,Intersport,intersport,3.0,2026-11-25
+2019-10-01,Intersport,intersport,4.0,2026-11-25
+2019-11-01,Intersport,intersport,5.0,2026-11-25
+2019-12-01,Intersport,intersport,4.0,2026-11-25
+2020-01-01,Intersport,intersport,5.0,2026-11-25
+2020-02-01,Intersport,intersport,3.0,2026-11-25
+2020-03-01,Intersport,intersport,2.0,2026-11-25
+2020-04-01,Intersport,intersport,3.0,2026-11-25
+2020-05-01,Intersport,intersport,5.0,2026-11-25
+2020-06-01,Intersport,intersport,3.0,2026-11-25
+2020-07-01,Intersport,intersport,4.0,2026-11-25
+2020-08-01,Intersport,intersport,4.0,2026-11-25
+2020-09-01,Intersport,intersport,4.0,2026-11-25
+2020-10-01,Intersport,intersport,4.0,2026-11-25
+2020-11-01,Intersport,intersport,5.0,2026-11-25
+2020-12-01,Intersport,intersport,5.0,2026-11-25
+2021-01-01,Intersport,intersport,7.0,2026-11-25
+2021-02-01,Intersport,intersport,4.0,2026-11-25
+2021-03-01,Intersport,intersport,3.0,2026-11-25
+2021-04-01,Intersport,intersport,8.0,2026-11-25
+2021-05-01,Intersport,intersport,6.0,2026-11-25
+2021-06-01,Intersport,intersport,3.0,2026-11-25
+2021-07-01,Intersport,intersport,4.0,2026-11-25
+2021-08-01,Intersport,intersport,3.0,2026-11-25
+2021-09-01,Intersport,intersport,3.0,2026-11-25
+2021-10-01,Intersport,intersport,4.0,2026-11-25
+2021-11-01,Intersport,intersport,4.0,2026-11-25
+2021-12-01,Intersport,intersport,4.0,2026-11-25
+2022-01-01,Intersport,intersport,5.0,2026-11-25
+2022-02-01,Intersport,intersport,4.0,2026-11-25
+2022-03-01,Intersport,intersport,3.0,2026-11-25
+2022-04-01,Intersport,intersport,5.0,2026-11-25
+2022-05-01,Intersport,intersport,5.0,2026-11-25
+2022-06-01,Intersport,intersport,3.0,2026-11-25
+2022-07-01,Intersport,intersport,4.0,2026-11-25
+2022-08-01,Intersport,intersport,4.0,2026-11-25
+2022-09-01,Intersport,intersport,5.0,2026-11-25
+2022-10-01,Intersport,intersport,4.0,2026-11-25
+2022-11-01,Intersport,intersport,5.0,2026-11-25
+2022-12-01,Intersport,intersport,5.0,2026-11-25
+2023-01-01,Intersport,intersport,6.0,2026-11-25
+2023-02-01,Intersport,intersport,4.0,2026-11-25
+2023-03-01,Intersport,intersport,3.0,2026-11-25
+2023-04-01,Intersport,intersport,5.0,2026-11-25
+2023-05-01,Intersport,intersport,3.0,2026-11-25
+2023-06-01,Intersport,intersport,3.0,2026-11-25
+2023-07-01,Intersport,intersport,4.0,2026-11-25
+2023-08-01,Intersport,intersport,3.0,2026-11-25
+2023-09-01,Intersport,intersport,4.0,2026-11-25
+2023-10-01,Intersport,intersport,3.0,2026-11-25
+2023-11-01,Intersport,intersport,5.0,2026-11-25
+2023-12-01,Intersport,intersport,4.0,2026-11-25
+2024-01-01,Intersport,intersport,6.0,2026-11-25
+2024-02-01,Intersport,intersport,3.0,2026-11-25
+2024-03-01,Intersport,intersport,3.0,2026-11-25
+2024-04-01,Intersport,intersport,5.0,2026-11-25
+2024-05-01,Intersport,intersport,4.0,2026-11-25
+2024-06-01,Intersport,intersport,4.0,2026-11-25
+2024-07-01,Intersport,intersport,5.0,2026-11-25
+2024-08-01,Intersport,intersport,3.0,2026-11-25
+2024-09-01,Intersport,intersport,4.0,2026-11-25
+2024-10-01,Intersport,intersport,3.0,2026-11-25
+2024-11-01,Intersport,intersport,5.0,2026-11-25
+2024-12-01,Intersport,intersport,3.0,2026-11-25
+2025-01-01,Intersport,intersport,3.0,2026-11-25
+2025-02-01,Intersport,intersport,3.0,2026-11-25
+2025-03-01,Intersport,intersport,3.0,2026-11-25
+2025-04-01,Intersport,intersport,4.0,2026-11-25
+2025-05-01,Intersport,intersport,3.0,2026-11-25
+2025-06-01,Intersport,intersport,3.0,2026-11-25
+2025-07-01,Intersport,intersport,3.0,2026-11-25
+2025-08-01,Intersport,intersport,3.0,2026-11-25
+2025-09-01,Intersport,intersport,3.0,2026-11-25
+2025-10-01,Intersport,intersport,3.0,2026-11-25
+2025-11-01,Intersport,intersport,4.0,2026-11-25
+2025-12-01,Intersport,intersport,4.0,2026-11-25
+2016-01-01,Skroutz,Skroutz,56.0,2026-11-25
+2016-02-01,Skroutz,Skroutz,48.0,2026-11-25
+2016-03-01,Skroutz,Skroutz,50.0,2026-11-25
+2016-04-01,Skroutz,Skroutz,50.0,2026-11-25
+2016-05-01,Skroutz,Skroutz,51.0,2026-11-25
+2016-06-01,Skroutz,Skroutz,45.0,2026-11-25
+2016-07-01,Skroutz,Skroutz,50.0,2026-11-25
+2016-08-01,Skroutz,Skroutz,49.0,2026-11-25
+2016-09-01,Skroutz,Skroutz,56.0,2026-11-25
+2016-10-01,Skroutz,Skroutz,54.0,2026-11-25
+2016-11-01,Skroutz,Skroutz,54.0,2026-11-25
+2016-12-01,Skroutz,Skroutz,63.0,2026-11-25
+2017-01-01,Skroutz,Skroutz,55.0,2026-11-25
+2017-02-01,Skroutz,Skroutz,49.0,2026-11-25
+2017-03-01,Skroutz,Skroutz,49.0,2026-11-25
+2017-04-01,Skroutz,Skroutz,53.0,2026-11-25
+2017-05-01,Skroutz,Skroutz,47.0,2026-11-25
+2017-06-01,Skroutz,Skroutz,47.0,2026-11-25
+2017-07-01,Skroutz,Skroutz,52.0,2026-11-25
+2017-08-01,Skroutz,Skroutz,53.0,2026-11-25
+2017-09-01,Skroutz,Skroutz,57.0,2026-11-25
+2017-10-01,Skroutz,Skroutz,59.0,2026-11-25
+2017-11-01,Skroutz,Skroutz,72.0,2026-11-25
+2017-12-01,Skroutz,Skroutz,68.0,2026-11-25
+2018-01-01,Skroutz,Skroutz,62.0,2026-11-25
+2018-02-01,Skroutz,Skroutz,54.0,2026-11-25
+2018-03-01,Skroutz,Skroutz,54.0,2026-11-25
+2018-04-01,Skroutz,Skroutz,57.0,2026-11-25
+2018-05-01,Skroutz,Skroutz,52.0,2026-11-25
+2018-06-01,Skroutz,Skroutz,50.0,2026-11-25
+2018-07-01,Skroutz,Skroutz,50.0,2026-11-25
+2018-08-01,Skroutz,Skroutz,52.0,2026-11-25
+2018-09-01,Skroutz,Skroutz,54.0,2026-11-25
+2018-10-01,Skroutz,Skroutz,55.0,2026-11-25
+2018-11-01,Skroutz,Skroutz,76.0,2026-11-25
+2018-12-01,Skroutz,Skroutz,71.0,2026-11-25
+2019-01-01,Skroutz,Skroutz,62.0,2026-11-25
+2019-02-01,Skroutz,Skroutz,54.0,2026-11-25
+2019-03-01,Skroutz,Skroutz,54.0,2026-11-25
+2019-04-01,Skroutz,Skroutz,56.0,2026-11-25
+2019-05-01,Skroutz,Skroutz,56.0,2026-11-25
+2019-06-01,Skroutz,Skroutz,56.0,2026-11-25
+2019-07-01,Skroutz,Skroutz,56.0,2026-11-25
+2019-08-01,Skroutz,Skroutz,57.0,2026-11-25
+2019-09-01,Skroutz,Skroutz,61.0,2026-11-25
+2019-10-01,Skroutz,Skroutz,64.0,2026-11-25
+2019-11-01,Skroutz,Skroutz,87.0,2026-11-25
+2019-12-01,Skroutz,Skroutz,81.0,2026-11-25
+2020-01-01,Skroutz,Skroutz,71.0,2026-11-25
+2020-02-01,Skroutz,Skroutz,62.0,2026-11-25
+2020-03-01,Skroutz,Skroutz,60.0,2026-11-25
+2020-04-01,Skroutz,Skroutz,80.0,2026-11-25
+2020-05-01,Skroutz,Skroutz,77.0,2026-11-25
+2020-06-01,Skroutz,Skroutz,62.0,2026-11-25
+2020-07-01,Skroutz,Skroutz,68.0,2026-11-25
+2020-08-01,Skroutz,Skroutz,64.0,2026-11-25
+2020-09-01,Skroutz,Skroutz,63.0,2026-11-25
+2020-10-01,Skroutz,Skroutz,65.0,2026-11-25
+2020-11-01,Skroutz,Skroutz,100.0,2026-11-25
+2020-12-01,Skroutz,Skroutz,89.0,2026-11-25
+2021-01-01,Skroutz,Skroutz,75.0,2026-11-25
+2021-02-01,Skroutz,Skroutz,63.0,2026-11-25
+2021-03-01,Skroutz,Skroutz,61.0,2026-11-25
+2021-04-01,Skroutz,Skroutz,66.0,2026-11-25
+2021-05-01,Skroutz,Skroutz,57.0,2026-11-25
+2021-06-01,Skroutz,Skroutz,49.0,2026-11-25
+2021-07-01,Skroutz,Skroutz,51.0,2026-11-25
+2021-08-01,Skroutz,Skroutz,49.0,2026-11-25
+2021-09-01,Skroutz,Skroutz,51.0,2026-11-25
+2021-10-01,Skroutz,Skroutz,53.0,2026-11-25
+2021-11-01,Skroutz,Skroutz,65.0,2026-11-25
+2021-12-01,Skroutz,Skroutz,62.0,2026-11-25
+2022-01-01,Skroutz,Skroutz,65.0,2026-11-25
+2022-02-01,Skroutz,Skroutz,56.0,2026-11-25
+2022-03-01,Skroutz,Skroutz,60.0,2026-11-25
+2022-04-01,Skroutz,Skroutz,62.0,2026-11-25
+2022-05-01,Skroutz,Skroutz,57.0,2026-11-25
+2022-06-01,Skroutz,Skroutz,53.0,2026-11-25
+2022-07-01,Skroutz,Skroutz,54.0,2026-11-25
+2022-08-01,Skroutz,Skroutz,57.0,2026-11-25
+2022-09-01,Skroutz,Skroutz,56.0,2026-11-25
+2022-10-01,Skroutz,Skroutz,57.0,2026-11-25
+2022-11-01,Skroutz,Skroutz,70.0,2026-11-25
+2022-12-01,Skroutz,Skroutz,69.0,2026-11-25
+2023-01-01,Skroutz,Skroutz,56.0,2026-11-25
+2023-02-01,Skroutz,Skroutz,51.0,2026-11-25
+2023-03-01,Skroutz,Skroutz,49.0,2026-11-25
+2023-04-01,Skroutz,Skroutz,47.0,2026-11-25
+2023-05-01,Skroutz,Skroutz,41.0,2026-11-25
+2023-06-01,Skroutz,Skroutz,44.0,2026-11-25
+2023-07-01,Skroutz,Skroutz,43.0,2026-11-25
+2023-08-01,Skroutz,Skroutz,41.0,2026-11-25
+2023-09-01,Skroutz,Skroutz,41.0,2026-11-25
+2023-10-01,Skroutz,Skroutz,42.0,2026-11-25
+2023-11-01,Skroutz,Skroutz,51.0,2026-11-25
+2023-12-01,Skroutz,Skroutz,49.0,2026-11-25
+2024-01-01,Skroutz,Skroutz,42.0,2026-11-25
+2024-02-01,Skroutz,Skroutz,36.0,2026-11-25
+2024-03-01,Skroutz,Skroutz,33.0,2026-11-25
+2024-04-01,Skroutz,Skroutz,34.0,2026-11-25
+2024-05-01,Skroutz,Skroutz,32.0,2026-11-25
+2024-06-01,Skroutz,Skroutz,30.0,2026-11-25
+2024-07-01,Skroutz,Skroutz,29.0,2026-11-25
+2024-08-01,Skroutz,Skroutz,30.0,2026-11-25
+2024-09-01,Skroutz,Skroutz,30.0,2026-11-25
+2024-10-01,Skroutz,Skroutz,29.0,2026-11-25
+2024-11-01,Skroutz,Skroutz,33.0,2026-11-25
+2024-12-01,Skroutz,Skroutz,33.0,2026-11-25
+2025-01-01,Skroutz,Skroutz,28.0,2026-11-25
+2025-02-01,Skroutz,Skroutz,25.0,2026-11-25
+2025-03-01,Skroutz,Skroutz,25.0,2026-11-25
+2025-04-01,Skroutz,Skroutz,25.0,2026-11-25
+2025-05-01,Skroutz,Skroutz,24.0,2026-11-25
+2025-06-01,Skroutz,Skroutz,23.0,2026-11-25
+2025-07-01,Skroutz,Skroutz,24.0,2026-11-25
+2025-08-01,Skroutz,Skroutz,23.0,2026-11-25
+2025-09-01,Skroutz,Skroutz,23.0,2026-11-25
+2025-10-01,Skroutz,Skroutz,26.0,2026-11-25
+2025-11-01,Skroutz,Skroutz,28.0,2026-11-25
+2025-12-01,Skroutz,Skroutz,26.0,2026-11-25
